@@ -1,0 +1,53 @@
+# DefendX - Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+*.spec
+
+# Virtual environment
+defX/
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Logs
+*.log
+
+# Large zip archives
+*.zip
+
+# PyInstaller temp
+*.manifest
+*.pem
+
+# Gemini / Antigravity IDE artifacts
+.gemini/
+.agents/
+
+# Large datasets
+Models/Data set/
+*.tar.gz
+*.tar.bz2
+
+# Local secret tokens
+hf_token.txt
+
+

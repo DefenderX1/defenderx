@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DefendX — Next-Gen AI Insider Threat Detection</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+<body>
+    <!-- Top Navigation Header -->
+    <header class="navbar">
+        <div class="logo">
+            <img src="denderx_logo.png" class="logo-img" alt="DefendX Logo">
+            <span class="logo-title">DefendX</span>
+        </div>
+        <nav class="nav-links">
+            <a href="#features">Features</a>
+            <a href="#architecture">How it Works</a>
+            <a href="#download" class="btn-nav">Get Started</a>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-content">
+            <span class="hero-badge">Next-Gen Cyber Security</span>
+            <h1 class="hero-title">AI-Based Insider Threat <br><span class="text-gradient">Detection & Mitigation</span></h1>
+            <p class="hero-desc">
+                Protect sensitive corporate databases from exfiltration, monitor unauthorized USB activity, detect Shadow AI usage, and block insider security bypasses in real-time.
+            </p>
+            
+            <div class="hero-actions" id="download">
+                <!-- Windows Download -->
+                <a href="../dist/DefendX.exe" download class="btn-download windows">
+                    <i data-lucide="download"></i>
+                    <div class="btn-text">
+                        <span class="btn-sub">Download for</span>
+                        <span class="btn-main">Windows OS (64-bit)</span>
+                    </div>
+                </a>
+                
+                <!-- macOS (Under Development) -->
+                <div class="btn-download disabled" data-tooltip="macOS Version Under Development">
+                    <i data-lucide="apple"></i>
+                    <div class="btn-text">
+                        <span class="btn-sub">macOS Edition</span>
+                        <span class="btn-main">Under Development</span>
+                    </div>
+                </div>
+
+                <!-- Linux (Under Development) -->
+                <div class="btn-download disabled" data-tooltip="Linux Version Under Development">
+                    <i data-lucide="terminal"></i>
+                    <div class="btn-text">
+                        <span class="btn-sub">Linux Edition</span>
+                        <span class="btn-main">Under Development</span>
+                    </div>
+                </div>
+            </div>
+            <p class="download-info">Current Stable Build: v2.4.2 (Standalone Installer)</p>
+        </div>
+    </section>
+
+    <!-- Core Features Grid -->
+    <section id="features" class="features-section">
+        <div class="section-header">
+            <h2>Layered Insider Security</h2>
+            <p>Multiple monitoring agents feeding into a centralized machine learning intelligence engine.</p>
+        </div>
+        
+        <div class="features-grid">
+            <div class="feature-card">
+                <i data-lucide="brain-circuit" class="feat-icon text-cyan"></i>
+                <h3>Behavioral Anomaly Detection</h3>
+                <p>Monitors organizational logon patterns, files copied, and USB mounts using Isolation Forest ML models trained on CERT threat records.</p>
+            </div>
+            
+            <div class="feature-card">
+                <i data-lucide="eye" class="feat-icon text-purple"></i>
+                <h3>Shadow AI Monitoring</h3>
+                <p>Detects unauthorized employee web browsing to commercial LLMs and generative intelligence tools to protect confidential corporate assets.</p>
+            </div>
+
+            <div class="feature-card">
+                <i data-lucide="usb" class="feat-icon text-orange"></i>
+                <h3>Removable Media Blocker</h3>
+                <p>Instantly flags and blocks sensitive data exfiltration to external USB flash drives and portable storage devices.</p>
+            </div>
+
+            <div class="feature-card">
+                <i data-lucide="shield" class="feat-icon text-green"></i>
+                <h3>Hugging Face AI Forensics</h3>
+                <p>Leverages local Gemma-3-IT agents to automatically evaluate security incidents and generate detailed recovery checklists.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Architecture Visual Flow -->
+    <section id="architecture" class="architecture-section">
+        <div class="section-header">
+            <h2>Real-Time Mitigation Pipeline</h2>
+            <p>Our pipeline runs continuously on host workstations, isolating threats before exfiltration occurs.</p>
+        </div>
+
+        <div class="arch-flow">
+            <div class="flow-step">
+                <div class="step-num">1</div>
+                <h4>Log Analysis</h4>
+                <p>Host monitor tracks browser history, network packet streams, and registry modifications.</p>
+            </div>
+            <i data-lucide="arrow-right" class="flow-arrow"></i>
+            <div class="flow-step">
+                <div class="step-num">2</div>
+                <h4>ML Inference</h4>
+                <p>Telemetry data is evaluated against local Isolation Forest and Random Forest classifiers.</p>
+            </div>
+            <i data-lucide="arrow-right" class="flow-arrow"></i>
+            <div class="flow-step">
+                <div class="step-num">3</div>
+                <h4>AI Remediation</h4>
+                <p>Gemma-3-IT performs threat forensics, updating the Admin Console and generating reports.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <p>&copy; 2026 DefendX Inc. All rights reserved. Antigravity Developer Portal Network.</p>
+    </footer>
+
+    <script>
+        lucide.createIcons();
+    </script>
+</body>
+</html>

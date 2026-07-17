@@ -1,0 +1,10 @@
+Metric,Value
+total_records,854859
+total_logons,470591
+total_logoffs,384268
+unique_users,1000
+unique_pcs,1003
+after_hours_logins,19318
+weekend_logins,11864
+multi_pc_users,217
+date_range,2010-01-02 06:49:00 to 2011-05-17 06:43:35

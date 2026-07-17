@@ -1,0 +1,1001 @@
+user,role,business_unit,functional_unit,department,team,left_company
+CEL0561,ComputerProgrammer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,3 - Software,0
+CRD0624,Salesman,1,5 - SalesAndMarketing,2 - Sales,3 - RegionalSales,1
+JFC0557,SoftwareEngineer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,3 - Software,0
+ASD0577,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,3 - AssemblyDept,0
+MAR0955,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,6 - AssemblyDept,1
+GRM0868,Salesman,1,5 - SalesAndMarketing,2 - Sales,5 - RegionalSales,0
+AAL0706,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,4 - AssemblyDept,0
+RVC0232,Mathematician,1,2 - ResearchAndEngineering,1 - Research,1 - Lab,0
+TCD0009,AdministrativeAssistant,1,1 - Adminstration,,,0
+ASM0575,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,3 - AssemblyDept,0
+DAR0885,Technician,1,5 - SalesAndMarketing,3 - FieldService,5 - RegionalFieldService,1
+JLM0364,ITAdmin,1,1 - Adminstration,6 - Security,3 - ElectronicSecurity,1
+FOB0756,Technician,1,5 - SalesAndMarketing,3 - FieldService,4 - RegionalFieldService,0
+GCG0951,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,6 - AssemblyDept,0
+HWY0038,ITAdmin,1,1 - Adminstration,6 - Security,2 - ElectronicSecurity,1
+AAV0450,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,2 - AssemblyDept,0
+CJV0286,Technician,1,2 - ResearchAndEngineering,3 - Engineering,5 - TestAndEvalualtion,0
+TDG0962,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,6 - AssemblyDept,0
+SVL0803,Mathematician,1,2 - ResearchAndEngineering,1 - Research,5 - Lab,0
+QOS0878,Salesman,1,5 - SalesAndMarketing,2 - Sales,5 - RegionalSales,1
+MDM0625,Salesman,1,5 - SalesAndMarketing,2 - Sales,3 - RegionalSales,0
+GMF0738,Salesman,1,5 - SalesAndMarketing,2 - Sales,4 - RegionalSales,0
+BER0314,Salesman,1,5 - SalesAndMarketing,2 - Sales,1 - RegionalSales,0
+AMR0400,SoftwareEngineer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,2 - Software,0
+YCE0983,ManagementTrainer,1,1 - Adminstration,3 - Training,,0
+BJW0619,Salesman,1,5 - SalesAndMarketing,2 - Sales,3 - RegionalSales,0
+DPS0262,ElectricalEngineer,1,2 - ResearchAndEngineering,3 - Engineering,2 - ElectricalEngineering,1
+TYB0779,Technician,1,5 - SalesAndMarketing,3 - FieldService,4 - RegionalFieldService,0
+MAS0025,InstructionalCoordinator,1,1 - Adminstration,3 - Training,,1
+KBL0260,ElectricalEngineer,1,2 - ResearchAndEngineering,3 - Engineering,2 - ElectricalEngineering,0
+GHL0460,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,2 - AssemblyDept,1
+FMG0527,Technician,1,5 - SalesAndMarketing,3 - FieldService,2 - RegionalFieldService,1
+HCL0651,Technician,1,5 - SalesAndMarketing,3 - FieldService,3 - RegionalFieldService,0
+SCP0130,AssemblySupervisor,1,3 - Manufacturing,3 - Assembly,1 - AssemblyDept,0
+CMW0783,Technician,1,5 - SalesAndMarketing,3 - FieldService,4 - RegionalFieldService,0
+RKF0164,Statistician,1,5 - SalesAndMarketing,1 - MarketAnalysis,,1
+DOL0332,Technician,1,5 - SalesAndMarketing,3 - FieldService,1 - RegionalFieldService,0
+RSC0089,ElectricalEngineer,1,2 - ResearchAndEngineering,3 - Engineering,2 - ElectricalEngineering,0
+CCM0136,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,1 - AssemblyDept,0
+NCH0179,AdministrativeAssistant,1,5 - SalesAndMarketing,3 - FieldService,1 - RegionalFieldService,0
+NBH0256,ElectricalEngineer,1,2 - ResearchAndEngineering,3 - Engineering,2 - ElectricalEngineering,0
+ORG0339,Technician,1,5 - SalesAndMarketing,3 - FieldService,1 - RegionalFieldService,0
+FRR0832,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,5 - AssemblyDept,0
+MSD0939,ComputerProgrammer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,6 - Software,0
+OQH0183,Technician,1,5 - SalesAndMarketing,3 - FieldService,1 - RegionalFieldService,0
+BSH0445,TestEngineer,1,2 - ResearchAndEngineering,3 - Engineering,7 - TestAndEvalualtion,0
+KSP0357,ITAdmin,1,1 - Adminstration,6 - Security,3 - ElectronicSecurity,1
+NGO0690,SoftwareEngineer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,4 - Software,0
+VCC0396,SoftwareEngineer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,2 - Software,0
+WDD0366,ITAdmin,1,1 - Adminstration,6 - Security,3 - ElectronicSecurity,1
+KPP0452,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,2 - AssemblyDept,0
+RTO0313,Salesman,1,5 - SalesAndMarketing,2 - Sales,1 - RegionalSales,0
+ABM0845,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,5 - AssemblyDept,0
+VIA0063,Manager,1,2 - ResearchAndEngineering,2 - SoftwareManagement,1 - Software,0
+BIH0745,Salesman,1,5 - SalesAndMarketing,2 - Sales,4 - RegionalSales,1
+CCW0031,Manager,1,1 - Adminstration,6 - Security,1 - BuildingSecurity,0
+IYB0918,Scientist,1,2 - ResearchAndEngineering,1 - Research,6 - Lab,0
+ORM0669,Mathematician,1,2 - ResearchAndEngineering,1 - Research,4 - Lab,0
+MJB0588,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,3 - AssemblyDept,0
+ALB0892,Technician,1,5 - SalesAndMarketing,3 - FieldService,5 - RegionalFieldService,1
+LIM0674,Physicist,1,2 - ResearchAndEngineering,1 - Research,4 - Lab,0
+LHN0151,Accountant,1,4 - Finance,1 - Accounting,,0
+WTR0563,ComputerProgrammer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,3 - Software,0
+MKS0204,Attorney,1,6 - PurchasingAndContracts,3 - Contracts,,0
+AAW0353,AssemblySupervisor,1,3 - Manufacturing,3 - Assembly,2 - AssemblyDept,0
+WJD0576,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,3 - AssemblyDept,0
+ILH0958,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,6 - AssemblyDept,0
+TLK0993,IndustrialEngineer,1,3 - Manufacturing,1 - IndustrialEngineering,,0
+WAB0143,Statistician,1,3 - Manufacturing,4 - QualityControl,,1
+RAG0275,ElectricalEngineer,1,2 - ResearchAndEngineering,3 - Engineering,4 - SystemsEngineering,0
+LQC0479,Salesman,1,5 - SalesAndMarketing,2 - Sales,2 - RegionalSales,1
+KWC0004,VicePresident,1,2 - ResearchAndEngineering,,,0
+CJK0200,PurchasingClerk,1,6 - PurchasingAndContracts,2 - Pricing,,0
+FEB0306,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,1 - AssemblyDept,0
+IJM0776,Technician,1,5 - SalesAndMarketing,3 - FieldService,4 - RegionalFieldService,1
+NKH0807,ComputerProgrammer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,5 - Software,0
+JMC0925,Physicist,1,2 - ResearchAndEngineering,1 - Research,6 - Lab,0
+SBH0537,Manager,1,2 - ResearchAndEngineering,2 - SoftwareManagement,3 - Software,0
+JJB0700,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,4 - AssemblyDept,0
+AIS0405,SoftwareEngineer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,2 - Software,0
+HAH0760,Technician,1,5 - SalesAndMarketing,3 - FieldService,4 - RegionalFieldService,0
+AHD0848,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,5 - AssemblyDept,0
+LDM0587,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,3 - AssemblyDept,0
+AJN0607,Salesman,1,5 - SalesAndMarketing,2 - Sales,3 - RegionalSales,0
+BBS0039,ITAdmin,1,1 - Adminstration,6 - Security,2 - ElectronicSecurity,1
+EIS0041,ITAdmin,1,1 - Adminstration,6 - Security,2 - ElectronicSecurity,0
+MLG0475,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,2 - AssemblyDept,0
+HRD0635,Technician,1,5 - SalesAndMarketing,3 - FieldService,3 - RegionalFieldService,1
+EPW0434,TestEngineer,1,2 - ResearchAndEngineering,3 - Engineering,7 - TestAndEvalualtion,0
+JAM0382,Scientist,1,2 - ResearchAndEngineering,1 - Research,2 - Lab,0
+NCK0295,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,1 - AssemblyDept,0
+LJT0817,ComputerScientist,1,2 - ResearchAndEngineering,2 - SoftwareManagement,5 - Software,0
+CAM0102,ComputerScientist,1,2 - ResearchAndEngineering,3 - Engineering,4 - SystemsEngineering,0
+SOG0411,SystemsEngineer,1,2 - ResearchAndEngineering,3 - Engineering,6 - SystemsEngineering,0
+KSH0569,SoftwareEngineer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,3 - Software,0
+BDI0533,Technician,1,5 - SalesAndMarketing,3 - FieldService,2 - RegionalFieldService,0
+PMJ0564,ComputerScientist,1,2 - ResearchAndEngineering,2 - SoftwareManagement,3 - Software,0
+HGG0240,ComputerScientist,1,2 - ResearchAndEngineering,2 - SoftwareManagement,1 - Software,0
+MGS0974,HumanResourceSpecialist,1,1 - Adminstration,1 - Personnel,,0
+DHM0937,ComputerProgrammer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,6 - Software,0
+ENC0234,Physicist,1,2 - ResearchAndEngineering,1 - Research,1 - Lab,1
+CEB0210,SecurityGuard,1,1 - Adminstration,6 - Security,1 - BuildingSecurity,0
+YJV0699,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,4 - AssemblyDept,0
+BMT0528,Technician,1,5 - SalesAndMarketing,3 - FieldService,2 - RegionalFieldService,0
+CJC0494,Salesman,1,5 - SalesAndMarketing,2 - Sales,2 - RegionalSales,0
+SOB0360,ITAdmin,1,1 - Adminstration,6 - Security,3 - ElectronicSecurity,1
+GCS0571,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,3 - AssemblyDept,0
+BJP0134,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,1 - AssemblyDept,0
+KBP0008,VicePresident,1,6 - PurchasingAndContracts,,,0
+FLM0213,SecurityGuard,1,1 - Adminstration,6 - Security,1 - BuildingSecurity,0
+RRP0568,ComputerScientist,1,2 - ResearchAndEngineering,2 - SoftwareManagement,3 - Software,0
+MCF0600,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,3 - AssemblyDept,1
+SAA0999,ElectricalEngineer,1,3 - Manufacturing,2 - ManufacturingEngineering,,0
+THR0873,Salesman,1,5 - SalesAndMarketing,2 - Sales,5 - RegionalSales,0
+KRM0541,Scientist,1,2 - ResearchAndEngineering,1 - Research,3 - Lab,0
+KSP0966,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,6 - AssemblyDept,0
+LOF0311,Salesman,1,5 - SalesAndMarketing,2 - Sales,1 - RegionalSales,0
+MBR0724,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,4 - AssemblyDept,0
+FSC0601,Salesman,1,5 - SalesAndMarketing,2 - Sales,3 - RegionalSales,1
+MLP0668,Mathematician,1,2 - ResearchAndEngineering,1 - Research,4 - Lab,0
+CUD0795,Physicist,1,2 - ResearchAndEngineering,1 - Research,5 - Lab,0
+AKR0057,AdministrativeAssistant,1,2 - ResearchAndEngineering,1 - Research,1 - Lab,1
+GZC0735,Salesman,1,5 - SalesAndMarketing,2 - Sales,4 - RegionalSales,0
+HLH0512,Technician,1,5 - SalesAndMarketing,3 - FieldService,2 - RegionalFieldService,0
+NJB0243,MechanicalEngineer,1,2 - ResearchAndEngineering,3 - Engineering,1 - MechanicalEngineering,0
+GCS0518,Technician,1,5 - SalesAndMarketing,3 - FieldService,2 - RegionalFieldService,0
+NMC0486,Salesman,1,5 - SalesAndMarketing,2 - Sales,2 - RegionalSales,0
+KMB0922,Scientist,1,2 - ResearchAndEngineering,1 - Research,6 - Lab,0
+CFM0767,Technician,1,5 - SalesAndMarketing,3 - FieldService,4 - RegionalFieldService,0
+HAD0246,MechanicalEngineer,1,2 - ResearchAndEngineering,3 - Engineering,1 - MechanicalEngineering,0
+ANP0555,Mathematician,1,2 - ResearchAndEngineering,1 - Research,3 - Lab,0
+LBF0214,SecurityGuard,1,1 - Adminstration,6 - Security,1 - BuildingSecurity,0
+DJB0159,Director,1,5 - SalesAndMarketing,1 - MarketAnalysis,,0
+BWP0202,Attorney,1,6 - PurchasingAndContracts,3 - Contracts,,0
+FFC0891,Technician,1,5 - SalesAndMarketing,3 - FieldService,5 - RegionalFieldService,1
+AJR0932,ComputerProgrammer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,6 - Software,1
+BDV0168,Salesman,1,5 - SalesAndMarketing,2 - Sales,1 - RegionalSales,1
+CQH0730,Salesman,1,5 - SalesAndMarketing,2 - Sales,4 - RegionalSales,0
+JCR0289,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,1 - AssemblyDept,0
+AES0827,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,5 - AssemblyDept,0
+SLP0762,Technician,1,5 - SalesAndMarketing,3 - FieldService,4 - RegionalFieldService,0
+CLD0894,Technician,1,5 - SalesAndMarketing,3 - FieldService,5 - RegionalFieldService,0
+LCD0622,Salesman,1,5 - SalesAndMarketing,2 - Sales,3 - RegionalSales,0
+CMB0912,Manager,1,2 - ResearchAndEngineering,2 - SoftwareManagement,6 - Software,0
+ZKS0899,Technician,1,5 - SalesAndMarketing,3 - FieldService,5 - RegionalFieldService,0
+JCV0245,MechanicalEngineer,1,2 - ResearchAndEngineering,3 - Engineering,1 - MechanicalEngineering,0
+AMH0794,Physicist,1,2 - ResearchAndEngineering,1 - Research,5 - Lab,0
+FKB0163,Statistician,1,5 - SalesAndMarketing,1 - MarketAnalysis,,0
+AKC0924,Scientist,1,2 - ResearchAndEngineering,1 - Research,6 - Lab,0
+ILR0304,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,1 - AssemblyDept,0
+AJF0370,ITAdmin,1,1 - Adminstration,6 - Security,3 - ElectronicSecurity,0
+OKC0107,TestEngineer,1,2 - ResearchAndEngineering,3 - Engineering,5 - TestAndEvalualtion,0
+OCS0865,Salesman,1,5 - SalesAndMarketing,2 - Sales,5 - RegionalSales,0
+UJC0737,Salesman,1,5 - SalesAndMarketing,2 - Sales,4 - RegionalSales,0
+MBW0809,ComputerScientist,1,2 - ResearchAndEngineering,2 - SoftwareManagement,5 - Software,1
+MCF0327,Salesman,1,5 - SalesAndMarketing,2 - Sales,1 - RegionalSales,0
+SGS0268,SystemsEngineer,1,2 - ResearchAndEngineering,3 - Engineering,4 - SystemsEngineering,0
+BNG0237,SoftwareEngineer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,1 - Software,0
+OSH0655,Technician,1,5 - SalesAndMarketing,3 - FieldService,3 - RegionalFieldService,0
+CSB0080,AdministrativeAssistant,1,2 - ResearchAndEngineering,3 - Engineering,1 - MechanicalEngineering,0
+ERH0449,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,2 - AssemblyDept,0
+EGK0893,Technician,1,5 - SalesAndMarketing,3 - FieldService,5 - RegionalFieldService,0
+MMB0488,Salesman,1,5 - SalesAndMarketing,2 - Sales,2 - RegionalSales,1
+AAM0658,Technician,1,5 - SalesAndMarketing,3 - FieldService,3 - RegionalFieldService,1
+ESA0642,Technician,1,5 - SalesAndMarketing,3 - FieldService,3 - RegionalFieldService,0
+CRK0916,Physicist,1,2 - ResearchAndEngineering,1 - Research,6 - Lab,0
+BBH0810,ComputerProgrammer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,5 - Software,0
+JRF0835,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,5 - AssemblyDept,0
+SJC0333,Technician,1,5 - SalesAndMarketing,3 - FieldService,1 - RegionalFieldService,0
+HCS0003,VicePresident,1,1 - Adminstration,,,0
+EMB0531,Technician,1,5 - SalesAndMarketing,3 - FieldService,2 - RegionalFieldService,0
+JIM0095,AdministrativeAssistant,1,2 - ResearchAndEngineering,3 - Engineering,4 - SystemsEngineering,0
+KJS0618,Salesman,1,5 - SalesAndMarketing,2 - Sales,3 - RegionalSales,0
+EBC0390,Scientist,1,2 - ResearchAndEngineering,1 - Research,2 - Lab,0
+WGS0516,Technician,1,5 - SalesAndMarketing,3 - FieldService,2 - RegionalFieldService,0
+NGF0157,FinancialAnalyst,1,4 - Finance,3 - FinancialPlanning,,0
+KAT0489,Salesman,1,5 - SalesAndMarketing,2 - Sales,2 - RegionalSales,0
+CCH0685,ComputerScientist,1,2 - ResearchAndEngineering,2 - SoftwareManagement,4 - Software,0
+DMM0623,Salesman,1,5 - SalesAndMarketing,2 - Sales,3 - RegionalSales,0
+SAH0599,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,3 - AssemblyDept,0
+CPG0322,Salesman,1,5 - SalesAndMarketing,2 - Sales,1 - RegionalSales,0
+OBH0499,Salesman,1,5 - SalesAndMarketing,2 - Sales,2 - RegionalSales,0
+SNS0129,AdministrativeAssistant,1,3 - Manufacturing,3 - Assembly,,0
+PKB0429,TestEngineer,1,2 - ResearchAndEngineering,3 - Engineering,7 - TestAndEvalualtion,0
+NAH0503,Salesman,1,5 - SalesAndMarketing,2 - Sales,2 - RegionalSales,0
+FRB0023,HumanResourceSpecialist,1,1 - Adminstration,2 - EmployeeRelations,,0
+AHG0634,Technician,1,5 - SalesAndMarketing,3 - FieldService,3 - RegionalFieldService,1
+CWB0065,ComputerScientist,1,2 - ResearchAndEngineering,2 - SoftwareManagement,,0
+ATP0662,Manager,1,2 - ResearchAndEngineering,2 - SoftwareManagement,4 - Software,0
+DPM0423,HardwareEngineer,1,2 - ResearchAndEngineering,3 - Engineering,6 - SystemsEngineering,0
+WKF0012,Director,1,1 - Adminstration,3 - Training,,0
+JMB0308,Salesman,1,5 - SalesAndMarketing,2 - Sales,1 - RegionalSales,1
+AKF0709,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,4 - AssemblyDept,0
+JMH0543,Scientist,1,2 - ResearchAndEngineering,1 - Research,3 - Lab,1
+CJF0802,Mathematician,1,2 - ResearchAndEngineering,1 - Research,5 - Lab,0
+IRM0931,ComputerProgrammer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,6 - Software,0
+FQA0854,Salesman,1,5 - SalesAndMarketing,2 - Sales,5 - RegionalSales,0
+CYA0506,Technician,1,5 - SalesAndMarketing,3 - FieldService,2 - RegionalFieldService,1
+GRC0145,AdministrativeAssistant,1,4 - Finance,,,0
+BLS0678,Mathematician,1,2 - ResearchAndEngineering,1 - Research,4 - Lab,1
+HJB0742,Salesman,1,5 - SalesAndMarketing,2 - Sales,4 - RegionalSales,1
+KKS0119,Manager,1,3 - Manufacturing,4 - QualityControl,,0
+RAB0589,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,3 - AssemblyDept,1
+DBB0384,Scientist,1,2 - ResearchAndEngineering,1 - Research,2 - Lab,0
+TRK0914,Mathematician,1,2 - ResearchAndEngineering,1 - Research,6 - Lab,0
+BSA0431,TestEngineer,1,2 - ResearchAndEngineering,3 - Engineering,7 - TestAndEvalualtion,0
+RHL0992,IndustrialEngineer,1,3 - Manufacturing,1 - IndustrialEngineering,,1
+CIM0926,Scientist,1,2 - ResearchAndEngineering,1 - Research,6 - Lab,1
+CFG0959,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,6 - AssemblyDept,0
+VMJ0147,Manager,1,4 - Finance,2 - Payroll,,0
+SAT0194,PurchasingClerk,1,6 - PurchasingAndContracts,1 - Purchasing,,0
+HBO0413,SystemsEngineer,1,2 - ResearchAndEngineering,3 - Engineering,6 - SystemsEngineering,1
+DZC0228,Physicist,1,2 - ResearchAndEngineering,1 - Research,1 - Lab,0
+TEB0251,MechanicalEngineer,1,2 - ResearchAndEngineering,3 - Engineering,1 - MechanicalEngineering,0
+MNR0829,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,5 - AssemblyDept,0
+DOP0562,ComputerProgrammer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,3 - Software,0
+UAD0771,Technician,1,5 - SalesAndMarketing,3 - FieldService,4 - RegionalFieldService,0
+ALD0544,Mathematician,1,2 - ResearchAndEngineering,1 - Research,3 - Lab,0
+LCB0664,Manager,1,5 - SalesAndMarketing,2 - Sales,4 - RegionalSales,0
+HCL0113,TestEngineer,1,2 - ResearchAndEngineering,3 - Engineering,5 - TestAndEvalualtion,0
+TSB0437,Technician,1,2 - ResearchAndEngineering,3 - Engineering,7 - TestAndEvalualtion,0
+EZH0736,Salesman,1,5 - SalesAndMarketing,2 - Sales,4 - RegionalSales,0
+JCG0316,Salesman,1,5 - SalesAndMarketing,2 - Sales,1 - RegionalSales,0
+MSG0839,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,5 - AssemblyDept,0
+LJJ0905,Technician,1,5 - SalesAndMarketing,3 - FieldService,5 - RegionalFieldService,0
+HCM0267,MaterialsEngineer,1,2 - ResearchAndEngineering,3 - Engineering,3 - MaterialsEngineering,0
+MTB0620,Salesman,1,5 - SalesAndMarketing,2 - Sales,3 - RegionalSales,0
+CCH0182,Technician,1,5 - SalesAndMarketing,3 - FieldService,1 - RegionalFieldService,0
+CAM0681,ComputerScientist,1,2 - ResearchAndEngineering,2 - SoftwareManagement,4 - Software,0
+LBH0942,SoftwareEngineer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,6 - Software,0
+CAB0388,Scientist,1,2 - ResearchAndEngineering,1 - Research,2 - Lab,0
+WGR0833,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,5 - AssemblyDept,0
+MTT0901,Technician,1,5 - SalesAndMarketing,3 - FieldService,5 - RegionalFieldService,1
+GQF0659,Technician,1,5 - SalesAndMarketing,3 - FieldService,3 - RegionalFieldService,0
+CSP0197,PurchasingClerk,1,6 - PurchasingAndContracts,1 - Purchasing,,0
+OMM0944,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,6 - AssemblyDept,0
+IMP0530,Technician,1,5 - SalesAndMarketing,3 - FieldService,2 - RegionalFieldService,0
+ORB0473,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,2 - AssemblyDept,0
+JML0909,Technician,1,5 - SalesAndMarketing,3 - FieldService,5 - RegionalFieldService,0
+NDM0417,ComputerScientist,1,2 - ResearchAndEngineering,3 - Engineering,6 - SystemsEngineering,0
+FRL0511,Technician,1,5 - SalesAndMarketing,3 - FieldService,2 - RegionalFieldService,0
+LAP0338,Technician,1,5 - SalesAndMarketing,3 - FieldService,1 - RegionalFieldService,0
+HCV0478,Salesman,1,5 - SalesAndMarketing,2 - Sales,2 - RegionalSales,0
+KJA0152,AdministrativeAssistant,1,4 - Finance,2 - Payroll,,0
+ECF0828,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,5 - AssemblyDept,1
+BVN0514,Technician,1,5 - SalesAndMarketing,3 - FieldService,2 - RegionalFieldService,1
+BSS0463,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,2 - AssemblyDept,0
+JJM0203,Engineer,1,6 - PurchasingAndContracts,3 - Contracts,,1
+AIM0627,Salesman,1,5 - SalesAndMarketing,2 - Sales,3 - RegionalSales,0
+RAH0440,ElectricalEngineer,1,2 - ResearchAndEngineering,3 - Engineering,7 - TestAndEvalualtion,0
+XHG0902,Technician,1,5 - SalesAndMarketing,3 - FieldService,5 - RegionalFieldService,0
+TDJ0998,MechanicalEngineer,1,3 - Manufacturing,2 - ManufacturingEngineering,,0
+JPA0667,Scientist,1,2 - ResearchAndEngineering,1 - Research,4 - Lab,0
+EHR0096,ComputerScientist,1,2 - ResearchAndEngineering,3 - Engineering,4 - SystemsEngineering,0
+SJW0451,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,2 - AssemblyDept,0
+CNB0900,Technician,1,5 - SalesAndMarketing,3 - FieldService,5 - RegionalFieldService,0
+EAH0466,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,2 - AssemblyDept,1
+CTA0020,HumanResourceSpecialist,1,1 - Adminstration,1 - Personnel,,0
+SRS0231,Scientist,1,2 - ResearchAndEngineering,1 - Research,1 - Lab,0
+HWH0646,Technician,1,5 - SalesAndMarketing,3 - FieldService,3 - RegionalFieldService,0
+HKB0418,SystemsEngineer,1,2 - ResearchAndEngineering,3 - Engineering,6 - SystemsEngineering,1
+CCM0855,Salesman,1,5 - SalesAndMarketing,2 - Sales,5 - RegionalSales,0
+SED0886,Technician,1,5 - SalesAndMarketing,3 - FieldService,5 - RegionalFieldService,0
+LBC0356,ITAdmin,1,1 - Adminstration,6 - Security,3 - ElectronicSecurity,0
+CKH0144,Engineer,1,3 - Manufacturing,4 - QualityControl,,0
+MBG0438,TestEngineer,1,2 - ResearchAndEngineering,3 - Engineering,7 - TestAndEvalualtion,1
+MVF0594,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,3 - AssemblyDept,0
+ATF0274,HardwareEngineer,1,2 - ResearchAndEngineering,3 - Engineering,4 - SystemsEngineering,0
+KTG0091,MaterialsEngineer,1,2 - ResearchAndEngineering,3 - Engineering,3 - MaterialsEngineering,0
+ACC0042,ITAdmin,1,1 - Adminstration,6 - Security,2 - ElectronicSecurity,0
+AKW0167,AdministrativeAssistant,1,5 - SalesAndMarketing,2 - Sales,1 - RegionalSales,0
+KPR0497,Salesman,1,5 - SalesAndMarketing,2 - Sales,2 - RegionalSales,0
+ABN0239,SoftwareEngineer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,1 - Software,0
+CKB0482,Salesman,1,5 - SalesAndMarketing,2 - Sales,2 - RegionalSales,0
+AMH0464,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,2 - AssemblyDept,0
+QCH0110,Technician,1,2 - ResearchAndEngineering,3 - Engineering,5 - TestAndEvalualtion,1
+SGG0787,Manager,1,2 - ResearchAndEngineering,2 - SoftwareManagement,5 - Software,0
+SIJ0661,LabManager,1,2 - ResearchAndEngineering,1 - Research,4 - Lab,0
+BTW0005,VicePresident,1,3 - Manufacturing,,,0
+RLB0719,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,4 - AssemblyDept,0
+WDO0870,Salesman,1,5 - SalesAndMarketing,2 - Sales,5 - RegionalSales,0
+KCB0815,SoftwareEngineer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,5 - Software,0
+VCY0751,Salesman,1,5 - SalesAndMarketing,2 - Sales,4 - RegionalSales,0
+BAJ0654,Technician,1,5 - SalesAndMarketing,3 - FieldService,3 - RegionalFieldService,0
+MKL0941,SoftwareEngineer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,6 - Software,0
+EGD0409,ElectricalEngineer,1,2 - ResearchAndEngineering,3 - Engineering,6 - SystemsEngineering,1
+DBS0235,Scientist,1,2 - ResearchAndEngineering,1 - Research,1 - Lab,0
+JJH0613,Salesman,1,5 - SalesAndMarketing,2 - Sales,3 - RegionalSales,0
+UFK0208,SecurityGuard,1,1 - Adminstration,6 - Security,1 - BuildingSecurity,0
+BLB0114,MechanicalEngineer,1,2 - ResearchAndEngineering,3 - Engineering,5 - TestAndEvalualtion,0
+CKD0680,Scientist,1,2 - ResearchAndEngineering,1 - Research,4 - Lab,0
+MKG0711,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,4 - AssemblyDept,0
+EDA0684,ComputerProgrammer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,4 - Software,1
+IIL0513,Technician,1,5 - SalesAndMarketing,3 - FieldService,2 - RegionalFieldService,0
+TSM0363,ITAdmin,1,1 - Adminstration,6 - Security,3 - ElectronicSecurity,0
+PBP0002,AdministrativeAssistant,1,,,,0
+LHB0606,Salesman,1,5 - SalesAndMarketing,2 - Sales,3 - RegionalSales,1
+GTD0898,Technician,1,5 - SalesAndMarketing,3 - FieldService,5 - RegionalFieldService,0
+CJH0702,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,4 - AssemblyDept,0
+DMK0257,ElectricalEngineer,1,2 - ResearchAndEngineering,3 - Engineering,2 - ElectricalEngineering,0
+WIQ0567,ComputerProgrammer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,3 - Software,0
+PTH0830,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,5 - AssemblyDept,0
+NCO0666,Scientist,1,2 - ResearchAndEngineering,1 - Research,4 - Lab,0
+MHG0733,Salesman,1,5 - SalesAndMarketing,2 - Sales,4 - RegionalSales,0
+RAW0915,Scientist,1,2 - ResearchAndEngineering,1 - Research,6 - Lab,0
+HAM0985,TechnicalTrainer,1,1 - Adminstration,3 - Training,,0
+SAB0781,Technician,1,5 - SalesAndMarketing,3 - FieldService,4 - RegionalFieldService,0
+IBM0671,Physicist,1,2 - ResearchAndEngineering,1 - Research,4 - Lab,0
+YDN0198,AdministrativeAssistant,1,6 - PurchasingAndContracts,2 - Pricing,,0
+GAF0060,Mathematician,1,2 - ResearchAndEngineering,1 - Research,1 - Lab,0
+AMM0014,Director,1,1 - Adminstration,5 - Medical,,0
+AMV0036,SecurityGuard,1,1 - Adminstration,6 - Security,1 - BuildingSecurity,0
+MOP0763,Technician,1,5 - SalesAndMarketing,3 - FieldService,4 - RegionalFieldService,0
+CBG0490,Salesman,1,5 - SalesAndMarketing,2 - Sales,2 - RegionalSales,0
+CNE0352,ChiefEngineer,1,2 - ResearchAndEngineering,3 - Engineering,7 - TestAndEvalualtion,0
+GQP0743,Salesman,1,5 - SalesAndMarketing,2 - Sales,4 - RegionalSales,0
+PTH0552,Mathematician,1,2 - ResearchAndEngineering,1 - Research,3 - Lab,0
+GLR0975,HumanResourceSpecialist,1,1 - Adminstration,1 - Personnel,,0
+GTD0219,ITAdmin,1,1 - Adminstration,6 - Security,2 - ElectronicSecurity,1
+BKW0374,ITAdmin,1,1 - Adminstration,6 - Security,3 - ElectronicSecurity,0
+CAH0936,ComputerScientist,1,2 - ResearchAndEngineering,2 - SoftwareManagement,6 - Software,1
+AIP0982,ManagementTrainer,1,1 - Adminstration,3 - Training,,0
+KRV0372,ITAdmin,1,1 - Adminstration,6 - Security,3 - ElectronicSecurity,0
+IAT0263,MaterialsEngineer,1,2 - ResearchAndEngineering,3 - Engineering,3 - MaterialsEngineering,1
+JBD0616,Salesman,1,5 - SalesAndMarketing,2 - Sales,3 - RegionalSales,0
+RUM0880,Salesman,1,5 - SalesAndMarketing,2 - Sales,5 - RegionalSales,0
+DGM0754,Salesman,1,5 - SalesAndMarketing,2 - Sales,4 - RegionalSales,1
+SMY0792,Mathematician,1,2 - ResearchAndEngineering,1 - Research,5 - Lab,0
+HOB0994,IndustrialEngineer,1,3 - Manufacturing,1 - IndustrialEngineering,,0
+DGN0480,Salesman,1,5 - SalesAndMarketing,2 - Sales,2 - RegionalSales,1
+KJJ0293,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,1 - AssemblyDept,0
+JXH0493,Salesman,1,5 - SalesAndMarketing,2 - Sales,2 - RegionalSales,0
+PGH0184,Technician,1,5 - SalesAndMarketing,3 - FieldService,1 - RegionalFieldService,1
+JPW0741,Salesman,1,5 - SalesAndMarketing,2 - Sales,4 - RegionalSales,0
+NMG0766,Technician,1,5 - SalesAndMarketing,3 - FieldService,4 - RegionalFieldService,0
+HMW0713,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,4 - AssemblyDept,0
+MAH0864,Salesman,1,5 - SalesAndMarketing,2 - Sales,5 - RegionalSales,0
+QNF0205,Attorney,1,6 - PurchasingAndContracts,3 - Contracts,,0
+KKW0879,Salesman,1,5 - SalesAndMarketing,2 - Sales,5 - RegionalSales,0
+TEM0093,MaterialsEngineer,1,2 - ResearchAndEngineering,3 - Engineering,3 - MaterialsEngineering,1
+RVF0201,AdministrativeAssistant,1,6 - PurchasingAndContracts,3 - Contracts,,0
+TMA0069,SoftwareEngineer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,1 - Software,0
+VFM0814,ComputerProgrammer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,5 - Software,1
+SBN0866,Salesman,1,5 - SalesAndMarketing,2 - Sales,5 - RegionalSales,0
+ZJE0857,Salesman,1,5 - SalesAndMarketing,2 - Sales,5 - RegionalSales,0
+HPM0986,InstructionalCoordinator,1,1 - Adminstration,3 - Training,,0
+CJP0952,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,6 - AssemblyDept,0
+DRR0162,AdministrativeAssistant,1,5 - SalesAndMarketing,1 - MarketAnalysis,,1
+ESR0693,ComputerScientist,1,2 - ResearchAndEngineering,2 - SoftwareManagement,4 - Software,1
+CWR0502,Salesman,1,5 - SalesAndMarketing,2 - Sales,2 - RegionalSales,0
+SLB0049,Director,1,2 - ResearchAndEngineering,1 - Research,,0
+IDO0176,Salesman,1,5 - SalesAndMarketing,2 - Sales,1 - RegionalSales,0
+AGB0186,Technician,1,5 - SalesAndMarketing,3 - FieldService,1 - RegionalFieldService,0
+RJB0088,ElectricalEngineer,1,2 - ResearchAndEngineering,3 - Engineering,2 - ElectricalEngineering,0
+OCB0805,Mathematician,1,2 - ResearchAndEngineering,1 - Research,5 - Lab,0
+ETR0428,TestEngineer,1,2 - ResearchAndEngineering,3 - Engineering,7 - TestAndEvalualtion,0
+IKP0472,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,2 - AssemblyDept,0
+LHB0967,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,6 - AssemblyDept,0
+CCM0467,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,2 - AssemblyDept,0
+GKO0078,ChiefEngineer,1,2 - ResearchAndEngineering,3 - Engineering,4 - SystemsEngineering,0
+GNS0178,FieldServiceEngineer,1,5 - SalesAndMarketing,3 - FieldService,1 - RegionalFieldService,0
+SSS0345,Technician,1,5 - SalesAndMarketing,3 - FieldService,1 - RegionalFieldService,0
+LOM0086,ElectricalEngineer,1,2 - ResearchAndEngineering,3 - Engineering,2 - ElectricalEngineering,1
+SSR0278,TestEngineer,1,2 - ResearchAndEngineering,3 - Engineering,5 - TestAndEvalualtion,1
+ALH0402,SoftwareEngineer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,2 - Software,0
+AKK0329,Technician,1,5 - SalesAndMarketing,3 - FieldService,1 - RegionalFieldService,0
+EWH0191,Manager,1,6 - PurchasingAndContracts,2 - Pricing,,0
+TVS0050,Director,1,2 - ResearchAndEngineering,2 - SoftwareManagement,,0
+TUC0632,Technician,1,5 - SalesAndMarketing,3 - FieldService,3 - RegionalFieldService,0
+SKG0759,Technician,1,5 - SalesAndMarketing,3 - FieldService,4 - RegionalFieldService,0
+IMG0320,Salesman,1,5 - SalesAndMarketing,2 - Sales,1 - RegionalSales,0
+BBG0325,Salesman,1,5 - SalesAndMarketing,2 - Sales,1 - RegionalSales,0
+CTW0500,Salesman,1,5 - SalesAndMarketing,2 - Sales,2 - RegionalSales,0
+SBN0495,Salesman,1,5 - SalesAndMarketing,2 - Sales,2 - RegionalSales,0
+ELH0960,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,6 - AssemblyDept,0
+BMS0877,Salesman,1,5 - SalesAndMarketing,2 - Sales,5 - RegionalSales,1
+TSG0906,Technician,1,5 - SalesAndMarketing,3 - FieldService,5 - RegionalFieldService,0
+RKD0604,Salesman,1,5 - SalesAndMarketing,2 - Sales,3 - RegionalSales,1
+JMK0099,SystemsEngineer,1,2 - ResearchAndEngineering,3 - Engineering,4 - SystemsEngineering,0
+MKP0861,Salesman,1,5 - SalesAndMarketing,2 - Sales,5 - RegionalSales,0
+HIW0536,LabManager,1,2 - ResearchAndEngineering,1 - Research,3 - Lab,0
+CTR0697,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,4 - AssemblyDept,0
+BHC0665,FieldServiceEngineer,1,5 - SalesAndMarketing,3 - FieldService,4 - RegionalFieldService,0
+DCH0843,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,5 - AssemblyDept,1
+WIF0691,ComputerScientist,1,2 - ResearchAndEngineering,2 - SoftwareManagement,4 - Software,0
+HWM0342,Technician,1,5 - SalesAndMarketing,3 - FieldService,1 - RegionalFieldService,0
+MNC0717,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,4 - AssemblyDept,0
+ARB0881,Technician,1,5 - SalesAndMarketing,3 - FieldService,5 - RegionalFieldService,0
+AHC0142,Engineer,1,3 - Manufacturing,4 - QualityControl,,0
+ZFM0468,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,2 - AssemblyDept,0
+DIW0118,Manager,1,3 - Manufacturing,3 - Assembly,,0
+USH0199,Statistician,1,6 - PurchasingAndContracts,2 - Pricing,,0
+MAD0753,Salesman,1,5 - SalesAndMarketing,2 - Sales,4 - RegionalSales,0
+KDS0349,LabManager,1,2 - ResearchAndEngineering,1 - Research,2 - Lab,0
+LJB0826,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,5 - AssemblyDept,0
+FKK0055,Scientist,1,2 - ResearchAndEngineering,1 - Research,,0
+TAP0551,Physicist,1,2 - ResearchAndEngineering,1 - Research,3 - Lab,1
+FPC0954,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,6 - AssemblyDept,0
+GBM0603,Salesman,1,5 - SalesAndMarketing,2 - Sales,3 - RegionalSales,1
+CXC0336,Technician,1,5 - SalesAndMarketing,3 - FieldService,1 - RegionalFieldService,0
+HMM0108,MechanicalEngineer,1,2 - ResearchAndEngineering,3 - Engineering,5 - TestAndEvalualtion,1
+FDE0117,Manager,1,3 - Manufacturing,2 - ManufacturingEngineering,,0
+FUM0015,Director,1,1 - Adminstration,6 - Security,,0
+NAB0801,Mathematician,1,2 - ResearchAndEngineering,1 - Research,5 - Lab,0
+GJT0386,Mathematician,1,2 - ResearchAndEngineering,1 - Research,2 - Lab,0
+KAC0124,ElectricalEngineer,1,3 - Manufacturing,2 - ManufacturingEngineering,,0
+RGH0728,Salesman,1,5 - SalesAndMarketing,2 - Sales,4 - RegionalSales,1
+CCR0863,Salesman,1,5 - SalesAndMarketing,2 - Sales,5 - RegionalSales,0
+TTD1000,MechanicalEngineer,1,3 - Manufacturing,2 - ManufacturingEngineering,,0
+OKB0439,MechanicalEngineer,1,2 - ResearchAndEngineering,3 - Engineering,7 - TestAndEvalualtion,0
+XAA0104,HardwareEngineer,1,2 - ResearchAndEngineering,3 - Engineering,4 - SystemsEngineering,0
+RFP0380,Mathematician,1,2 - ResearchAndEngineering,1 - Research,2 - Lab,0
+JTS0389,Scientist,1,2 - ResearchAndEngineering,1 - Research,2 - Lab,0
+CMS0454,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,2 - AssemblyDept,0
+JKB0126,ElectricalEngineer,1,3 - Manufacturing,2 - ManufacturingEngineering,,0
+LAM0911,LabManager,1,2 - ResearchAndEngineering,1 - Research,6 - Lab,0
+GCC0744,Salesman,1,5 - SalesAndMarketing,2 - Sales,4 - RegionalSales,0
+CLH0703,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,4 - AssemblyDept,0
+KMW0545,Physicist,1,2 - ResearchAndEngineering,1 - Research,3 - Lab,0
+PSF0133,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,1 - AssemblyDept,1
+NHH0185,Technician,1,5 - SalesAndMarketing,3 - FieldService,1 - RegionalFieldService,0
+NCE0097,SystemsEngineer,1,2 - ResearchAndEngineering,3 - Engineering,4 - SystemsEngineering,0
+CCL0068,ComputerScientist,1,2 - ResearchAndEngineering,2 - SoftwareManagement,1 - Software,1
+AJC0840,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,5 - AssemblyDept,0
+GCC0945,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,6 - AssemblyDept,0
+NAB0903,Technician,1,5 - SalesAndMarketing,3 - FieldService,5 - RegionalFieldService,0
+AOS0987,HealthSafetyEngineer,1,1 - Adminstration,4 - Safety,,0
+JAD0609,Salesman,1,5 - SalesAndMarketing,2 - Sales,3 - RegionalSales,0
+AMW0392,ComputerScientist,1,2 - ResearchAndEngineering,2 - SoftwareManagement,2 - Software,0
+FIR0920,Scientist,1,2 - ResearchAndEngineering,1 - Research,6 - Lab,0
+RNP0211,SecurityGuard,1,1 - Adminstration,6 - Security,1 - BuildingSecurity,0
+RHY0079,ChiefEngineer,1,2 - ResearchAndEngineering,3 - Engineering,5 - TestAndEvalualtion,0
+CLS0296,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,1 - AssemblyDept,0
+JSA0775,Technician,1,5 - SalesAndMarketing,3 - FieldService,4 - RegionalFieldService,0
+RDM0115,AdministrativeAssistant,1,3 - Manufacturing,,,0
+JKM0303,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,1 - AssemblyDept,0
+IJM0139,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,1 - AssemblyDept,0
+SVL0940,SoftwareEngineer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,6 - Software,0
+LDG0459,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,2 - AssemblyDept,0
+ROB0272,SystemsEngineer,1,2 - ResearchAndEngineering,3 - Engineering,4 - SystemsEngineering,0
+LNS0989,NursePractitioner,1,1 - Adminstration,5 - Medical,,0
+CNM0800,Scientist,1,2 - ResearchAndEngineering,1 - Research,5 - Lab,0
+HGN0287,MechanicalEngineer,1,2 - ResearchAndEngineering,3 - Engineering,5 - TestAndEvalualtion,0
+KMS0657,Technician,1,5 - SalesAndMarketing,3 - FieldService,3 - RegionalFieldService,0
+BMG0917,Physicist,1,2 - ResearchAndEngineering,1 - Research,6 - Lab,0
+HVB0037,SecurityGuard,1,1 - Adminstration,6 - Security,1 - BuildingSecurity,0
+PNH0761,Technician,1,5 - SalesAndMarketing,3 - FieldService,4 - RegionalFieldService,0
+JLW0053,LabManager,1,2 - ResearchAndEngineering,1 - Research,1 - Lab,0
+JNA0559,SoftwareEngineer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,3 - Software,0
+OYM0026,HealthSafetyEngineer,1,1 - Adminstration,4 - Safety,,0
+NIH0969,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,6 - AssemblyDept,0
+RCC0617,Salesman,1,5 - SalesAndMarketing,2 - Sales,3 - RegionalSales,0
+GJD0298,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,1 - AssemblyDept,0
+MLL0598,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,3 - AssemblyDept,0
+DSM0591,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,3 - AssemblyDept,0
+BTL0226,Physicist,1,2 - ResearchAndEngineering,1 - Research,1 - Lab,1
+SBN0971,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,6 - AssemblyDept,0
+CCW0524,Technician,1,5 - SalesAndMarketing,3 - FieldService,2 - RegionalFieldService,0
+IWM0816,SoftwareEngineer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,5 - Software,0
+JOL0024,AdministrativeAssistant,1,1 - Adminstration,3 - Training,,0
+ENL0100,ElectricalEngineer,1,2 - ResearchAndEngineering,3 - Engineering,4 - SystemsEngineering,0
+TIW0299,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,1 - AssemblyDept,0
+ZSK0258,ElectricalEngineer,1,2 - ResearchAndEngineering,3 - Engineering,2 - ElectricalEngineering,0
+CGF0337,Technician,1,5 - SalesAndMarketing,3 - FieldService,1 - RegionalFieldService,0
+EHB0420,ElectricalEngineer,1,2 - ResearchAndEngineering,3 - Engineering,6 - SystemsEngineering,0
+RGN0408,SystemsEngineer,1,2 - ResearchAndEngineering,3 - Engineering,6 - SystemsEngineering,0
+FHO0630,Salesman,1,5 - SalesAndMarketing,2 - Sales,3 - RegionalSales,0
+JKJ0698,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,4 - AssemblyDept,0
+SCF0608,Salesman,1,5 - SalesAndMarketing,2 - Sales,3 - RegionalSales,0
+BVC0790,FieldServiceEngineer,1,5 - SalesAndMarketing,3 - FieldService,5 - RegionalFieldService,0
+NRF0137,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,1 - AssemblyDept,0
+HDD0789,Manager,1,5 - SalesAndMarketing,2 - Sales,5 - RegionalSales,0
+IEB0153,Accountant,1,4 - Finance,2 - Payroll,,0
+ICH0294,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,1 - AssemblyDept,0
+ZSL0305,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,1 - AssemblyDept,0
+AJP0723,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,4 - AssemblyDept,0
+GDF0704,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,4 - AssemblyDept,0
+TJD0996,ElectricalEngineer,1,3 - Manufacturing,2 - ManufacturingEngineering,,0
+OMS0101,ComputerScientist,1,2 - ResearchAndEngineering,3 - Engineering,4 - SystemsEngineering,0
+BCM0653,Technician,1,5 - SalesAndMarketing,3 - FieldService,3 - RegionalFieldService,0
+BDB0453,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,2 - AssemblyDept,0
+NCK0421,ComputerScientist,1,2 - ResearchAndEngineering,3 - Engineering,6 - SystemsEngineering,0
+LPH0572,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,3 - AssemblyDept,1
+MFV0897,Technician,1,5 - SalesAndMarketing,3 - FieldService,5 - RegionalFieldService,0
+MAH0149,AdministrativeAssistant,1,4 - Finance,1 - Accounting,,0
+ECR0822,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,5 - AssemblyDept,0
+POB0343,Technician,1,5 - SalesAndMarketing,3 - FieldService,1 - RegionalFieldService,0
+IRT0491,Salesman,1,5 - SalesAndMarketing,2 - Sales,2 - RegionalSales,0
+HKI0171,Salesman,1,5 - SalesAndMarketing,2 - Sales,1 - RegionalSales,0
+DIB0285,ElectricalEngineer,1,2 - ResearchAndEngineering,3 - Engineering,5 - TestAndEvalualtion,1
+IAR0694,ComputerScientist,1,2 - ResearchAndEngineering,2 - SoftwareManagement,4 - Software,0
+CMM0487,Salesman,1,5 - SalesAndMarketing,2 - Sales,2 - RegionalSales,0
+LCC0819,ComputerProgrammer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,5 - Software,1
+AGB0643,Technician,1,5 - SalesAndMarketing,3 - FieldService,3 - RegionalFieldService,0
+PID0426,TestEngineer,1,2 - ResearchAndEngineering,3 - Engineering,7 - TestAndEvalualtion,0
+HLM0933,SoftwareEngineer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,6 - Software,0
+KRL0062,AdministrativeAssistant,1,2 - ResearchAndEngineering,2 - SoftwareManagement,,0
+MPM0220,ITAdmin,1,1 - Adminstration,6 - Security,2 - ElectronicSecurity,1
+JDB0169,Salesman,1,5 - SalesAndMarketing,2 - Sales,1 - RegionalSales,0
+AAS0442,Technician,1,2 - ResearchAndEngineering,3 - Engineering,7 - TestAndEvalualtion,1
+ZJS0269,HardwareEngineer,1,2 - ResearchAndEngineering,3 - Engineering,4 - SystemsEngineering,0
+CJM0521,Technician,1,5 - SalesAndMarketing,3 - FieldService,2 - RegionalFieldService,0
+MDH0580,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,3 - AssemblyDept,1
+JRS0362,ITAdmin,1,1 - Adminstration,6 - Security,3 - ElectronicSecurity,0
+WXH0872,Salesman,1,5 - SalesAndMarketing,2 - Sales,5 - RegionalSales,0
+MHA0798,Mathematician,1,2 - ResearchAndEngineering,1 - Research,5 - Lab,0
+JZD0888,Technician,1,5 - SalesAndMarketing,3 - FieldService,5 - RegionalFieldService,0
+HDD0806,SoftwareEngineer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,5 - Software,0
+BSB0990,SoftwareEngineer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,,0
+ALC0788,AssemblySupervisor,1,3 - Manufacturing,3 - Assembly,5 - AssemblyDept,0
+JCR0921,Physicist,1,2 - ResearchAndEngineering,1 - Research,6 - Lab,0
+RRA0938,SoftwareEngineer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,6 - Software,0
+SHW0578,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,3 - AssemblyDept,0
+GCL0016,AdministrativeAssistant,1,1 - Adminstration,1 - Personnel,,0
+GOK0238,ComputerScientist,1,2 - ResearchAndEngineering,2 - SoftwareManagement,1 - Software,1
+BCB0679,Mathematician,1,2 - ResearchAndEngineering,1 - Research,4 - Lab,1
+IHK0841,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,5 - AssemblyDept,0
+SAP0867,Salesman,1,5 - SalesAndMarketing,2 - Sales,5 - RegionalSales,1
+ALD0529,Technician,1,5 - SalesAndMarketing,3 - FieldService,2 - RegionalFieldService,0
+KRG0158,AdministrativeAssistant,1,5 - SalesAndMarketing,,,0
+TJB0302,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,1 - AssemblyDept,0
+ILC0838,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,5 - AssemblyDept,0
+RIH0777,Technician,1,5 - SalesAndMarketing,3 - FieldService,4 - RegionalFieldService,0
+HCW0419,HardwareEngineer,1,2 - ResearchAndEngineering,3 - Engineering,6 - SystemsEngineering,0
+DAL0673,Physicist,1,2 - ResearchAndEngineering,1 - Research,4 - Lab,0
+RMS0266,MaterialsEngineer,1,2 - ResearchAndEngineering,3 - Engineering,3 - MaterialsEngineering,0
+KDT0346,Technician,1,5 - SalesAndMarketing,3 - FieldService,1 - RegionalFieldService,0
+KAL0395,ComputerScientist,1,2 - ResearchAndEngineering,2 - SoftwareManagement,2 - Software,0
+ARD0509,Technician,1,5 - SalesAndMarketing,3 - FieldService,2 - RegionalFieldService,0
+BTL0722,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,4 - AssemblyDept,0
+WPE0538,AssemblySupervisor,1,3 - Manufacturing,3 - Assembly,3 - AssemblyDept,0
+CLF0852,Salesman,1,5 - SalesAndMarketing,2 - Sales,5 - RegionalSales,0
+HJA0018,HumanResourceSpecialist,1,1 - Adminstration,1 - Personnel,,0
+MIM0712,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,4 - AssemblyDept,0
+CEJ0109,TestEngineer,1,2 - ResearchAndEngineering,3 - Engineering,5 - TestAndEvalualtion,1
+JCW0858,Salesman,1,5 - SalesAndMarketing,2 - Sales,5 - RegionalSales,0
+DFR0218,ITAdmin,1,1 - Adminstration,6 - Security,2 - ElectronicSecurity,0
+BAL0044,ITAdmin,1,1 - Adminstration,6 - Security,2 - ElectronicSecurity,0
+ASS0206,SecurityGuard,1,1 - Adminstration,6 - Security,1 - BuildingSecurity,0
+IUB0565,SoftwareEngineer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,3 - Software,1
+ASG0048,AdministrativeAssistant,1,2 - ResearchAndEngineering,,,0
+TET0621,Salesman,1,5 - SalesAndMarketing,2 - Sales,3 - RegionalSales,0
+ARA0252,MechanicalEngineer,1,2 - ResearchAndEngineering,3 - Engineering,1 - MechanicalEngineering,0
+AMR0318,Salesman,1,5 - SalesAndMarketing,2 - Sales,1 - RegionalSales,0
+WTF0387,Mathematician,1,2 - ResearchAndEngineering,1 - Research,2 - Lab,0
+AJL0462,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,2 - AssemblyDept,0
+SDF0017,HumanResourceSpecialist,1,1 - Adminstration,1 - Personnel,,0
+RDM0150,Accountant,1,4 - Finance,1 - Accounting,,0
+HKF0831,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,5 - AssemblyDept,0
+DGF0443,MechanicalEngineer,1,2 - ResearchAndEngineering,3 - Engineering,7 - TestAndEvalualtion,0
+CAB0614,Salesman,1,5 - SalesAndMarketing,2 - Sales,3 - RegionalSales,0
+DBG0261,ElectricalEngineer,1,2 - ResearchAndEngineering,3 - Engineering,2 - ElectricalEngineering,0
+ZDW0859,Salesman,1,5 - SalesAndMarketing,2 - Sales,5 - RegionalSales,0
+UCH0519,Technician,1,5 - SalesAndMarketing,3 - FieldService,2 - RegionalFieldService,1
+CAC0889,Technician,1,5 - SalesAndMarketing,3 - FieldService,5 - RegionalFieldService,1
+EHD0584,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,3 - AssemblyDept,1
+OLB0749,Salesman,1,5 - SalesAndMarketing,2 - Sales,4 - RegionalSales,1
+BWH0813,ComputerScientist,1,2 - ResearchAndEngineering,2 - SoftwareManagement,5 - Software,0
+DMG0358,ITAdmin,1,1 - Adminstration,6 - Security,3 - ElectronicSecurity,0
+MAE0331,Technician,1,5 - SalesAndMarketing,3 - FieldService,1 - RegionalFieldService,0
+AMD0077,ChiefEngineer,1,2 - ResearchAndEngineering,3 - Engineering,3 - MaterialsEngineering,0
+XLB0710,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,4 - AssemblyDept,0
+DAG0558,ComputerProgrammer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,3 - Software,0
+WLV0566,SoftwareEngineer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,3 - Software,0
+EHB0824,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,5 - AssemblyDept,1
+FBW0747,Salesman,1,5 - SalesAndMarketing,2 - Sales,4 - RegionalSales,0
+SNC0187,Technician,1,5 - SalesAndMarketing,3 - FieldService,1 - RegionalFieldService,1
+IBB0359,ITAdmin,1,1 - Adminstration,6 - Security,3 - ElectronicSecurity,0
+RAM0447,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,2 - AssemblyDept,0
+AJD0074,AdministrativeAssistant,1,2 - ResearchAndEngineering,3 - Engineering,,0
+MSH0040,ITAdmin,1,1 - Adminstration,6 - Security,2 - ElectronicSecurity,1
+QJR0688,ComputerProgrammer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,4 - Software,0
+HTF0641,Technician,1,5 - SalesAndMarketing,3 - FieldService,3 - RegionalFieldService,0
+RDT0424,SystemsEngineer,1,2 - ResearchAndEngineering,3 - Engineering,6 - SystemsEngineering,0
+XRS0633,Technician,1,5 - SalesAndMarketing,3 - FieldService,3 - RegionalFieldService,0
+RLG0856,Salesman,1,5 - SalesAndMarketing,2 - Sales,5 - RegionalSales,0
+MLD0755,Salesman,1,5 - SalesAndMarketing,2 - Sales,4 - RegionalSales,0
+MOS0047,ITAdmin,1,1 - Adminstration,6 - Security,2 - ElectronicSecurity,1
+ETR0177,AdministrativeAssistant,1,5 - SalesAndMarketing,3 - FieldService,,0
+RYB0718,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,4 - AssemblyDept,0
+AAE0190,Manager,1,6 - PurchasingAndContracts,1 - Purchasing,,0
+NAF0033,SecurityGuard,1,1 - Adminstration,6 - Security,1 - BuildingSecurity,1
+DVM0265,MaterialsEngineer,1,2 - ResearchAndEngineering,3 - Engineering,3 - MaterialsEngineering,0
+JFC0757,Technician,1,5 - SalesAndMarketing,3 - FieldService,4 - RegionalFieldService,0
+AOB0019,HumanResourceSpecialist,1,1 - Adminstration,1 - Personnel,,0
+AIP0394,SoftwareEngineer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,2 - Software,0
+JJB0127,MechanicalEngineer,1,3 - Manufacturing,2 - ManufacturingEngineering,,0
+MCS0035,SecurityGuard,1,1 - Adminstration,6 - Security,1 - BuildingSecurity,0
+ABC0253,ElectricalEngineer,1,2 - ResearchAndEngineering,3 - Engineering,2 - ElectricalEngineering,0
+TQS0212,SecurityGuard,1,1 - Adminstration,6 - Security,1 - BuildingSecurity,0
+RSM0277,SystemsEngineer,1,2 - ResearchAndEngineering,3 - Engineering,4 - SystemsEngineering,0
+JER0404,SoftwareEngineer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,2 - Software,0
+CIG0052,AdministrativeAssistant,1,2 - ResearchAndEngineering,1 - Research,,0
+IIW0249,MechanicalEngineer,1,2 - ResearchAndEngineering,3 - Engineering,1 - MechanicalEngineering,0
+HVF0067,SoftwareEngineer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,1 - Software,0
+HWW0436,TestEngineer,1,2 - ResearchAndEngineering,3 - Engineering,7 - TestAndEvalualtion,0
+PEV0323,Salesman,1,5 - SalesAndMarketing,2 - Sales,1 - RegionalSales,0
+PGO0433,TestEngineer,1,2 - ResearchAndEngineering,3 - Engineering,7 - TestAndEvalualtion,0
+MVB0515,Technician,1,5 - SalesAndMarketing,3 - FieldService,2 - RegionalFieldService,0
+TJG0582,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,3 - AssemblyDept,0
+SRH0155,AdministrativeAssistant,1,4 - Finance,3 - FinancialPlanning,,0
+IJM0444,TestEngineer,1,2 - ResearchAndEngineering,3 - Engineering,7 - TestAndEvalualtion,0
+CIM0271,ComputerScientist,1,2 - ResearchAndEngineering,3 - Engineering,4 - SystemsEngineering,0
+CSL0949,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,6 - AssemblyDept,0
+AAN0823,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,5 - AssemblyDept,0
+JGT0221,ITAdmin,1,1 - Adminstration,6 - Security,2 - ElectronicSecurity,1
+AKH0758,Technician,1,5 - SalesAndMarketing,3 - FieldService,4 - RegionalFieldService,0
+HSG0818,ComputerProgrammer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,5 - Software,0
+MIL0255,ElectricalEngineer,1,2 - ResearchAndEngineering,3 - Engineering,2 - ElectricalEngineering,0
+JGM0934,SoftwareEngineer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,6 - Software,0
+KCO0122,IndustrialEngineer,1,3 - Manufacturing,1 - IndustrialEngineering,,0
+SGB0140,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,1 - AssemblyDept,0
+NAF0326,Salesman,1,5 - SalesAndMarketing,2 - Sales,1 - RegionalSales,0
+IUY0279,TestEngineer,1,2 - ResearchAndEngineering,3 - Engineering,5 - TestAndEvalualtion,0
+EIM0156,Statistician,1,4 - Finance,3 - FinancialPlanning,,0
+ABH0663,AssemblySupervisor,1,3 - Manufacturing,3 - Assembly,4 - AssemblyDept,0
+EZT0640,Technician,1,5 - SalesAndMarketing,3 - FieldService,3 - RegionalFieldService,0
+BAK0964,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,6 - AssemblyDept,0
+JCC0225,ITAdmin,1,1 - Adminstration,6 - Security,2 - ElectronicSecurity,0
+EMW0105,AdministrativeAssistant,1,2 - ResearchAndEngineering,3 - Engineering,5 - TestAndEvalualtion,0
+KLH0596,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,3 - AssemblyDept,1
+SJF0094,MaterialsEngineer,1,2 - ResearchAndEngineering,3 - Engineering,3 - MaterialsEngineering,0
+CSJ0340,Technician,1,5 - SalesAndMarketing,3 - FieldService,1 - RegionalFieldService,0
+RMW0542,Mathematician,1,2 - ResearchAndEngineering,1 - Research,3 - Lab,1
+JHP0583,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,3 - AssemblyDept,0
+HSD0457,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,2 - AssemblyDept,0
+YWW0660,Technician,1,5 - SalesAndMarketing,3 - FieldService,3 - RegionalFieldService,1
+PGC0066,AdministrativeAssistant,1,2 - ResearchAndEngineering,2 - SoftwareManagement,1 - Software,0
+MSO0222,ITAdmin,1,1 - Adminstration,6 - Security,2 - ElectronicSecurity,1
+WDV0573,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,3 - AssemblyDept,0
+QRM0739,Salesman,1,5 - SalesAndMarketing,2 - Sales,4 - RegionalSales,0
+ASS0517,Technician,1,5 - SalesAndMarketing,3 - FieldService,2 - RegionalFieldService,0
+LUR0896,Technician,1,5 - SalesAndMarketing,3 - FieldService,5 - RegionalFieldService,1
+ESH0283,MechanicalEngineer,1,2 - ResearchAndEngineering,3 - Engineering,5 - TestAndEvalualtion,0
+WBC0192,Manager,1,6 - PurchasingAndContracts,3 - Contracts,,0
+PLH0715,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,4 - AssemblyDept,0
+VSA0230,Mathematician,1,2 - ResearchAndEngineering,1 - Research,1 - Lab,1
+KJG0910,Technician,1,5 - SalesAndMarketing,3 - FieldService,5 - RegionalFieldService,0
+DBW0483,Salesman,1,5 - SalesAndMarketing,2 - Sales,2 - RegionalSales,0
+KBC0054,Scientist,1,2 - ResearchAndEngineering,1 - Research,,0
+CSC0217,ITAdmin,1,1 - Adminstration,6 - Security,2 - ElectronicSecurity,1
+BRS0734,Salesman,1,5 - SalesAndMarketing,2 - Sales,4 - RegionalSales,1
+KNB0022,HumanResourceSpecialist,1,1 - Adminstration,2 - EmployeeRelations,,0
+PIS0522,Technician,1,5 - SalesAndMarketing,3 - FieldService,2 - RegionalFieldService,0
+ADD0846,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,5 - AssemblyDept,0
+MAD0496,Salesman,1,5 - SalesAndMarketing,2 - Sales,2 - RegionalSales,1
+NKP0236,ComputerProgrammer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,1 - Software,0
+VLB0647,Technician,1,5 - SalesAndMarketing,3 - FieldService,3 - RegionalFieldService,0
+DKB0631,Technician,1,5 - SalesAndMarketing,3 - FieldService,3 - RegionalFieldService,0
+KES0729,Salesman,1,5 - SalesAndMarketing,2 - Sales,4 - RegionalSales,0
+IBB0696,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,4 - AssemblyDept,0
+BLL0929,ComputerScientist,1,2 - ResearchAndEngineering,2 - SoftwareManagement,6 - Software,0
+ABC0174,Salesman,1,5 - SalesAndMarketing,2 - Sales,1 - RegionalSales,1
+HAH0248,MechanicalEngineer,1,2 - ResearchAndEngineering,3 - Engineering,1 - MechanicalEngineering,0
+NBC0412,SystemsEngineer,1,2 - ResearchAndEngineering,3 - Engineering,6 - SystemsEngineering,0
+CRP0456,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,2 - AssemblyDept,0
+JIG0128,MechanicalEngineer,1,3 - Manufacturing,2 - ManufacturingEngineering,,0
+IJR0825,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,5 - AssemblyDept,0
+XWD0923,Mathematician,1,2 - ResearchAndEngineering,1 - Research,6 - Lab,1
+LDD0560,ComputerScientist,1,2 - ResearchAndEngineering,2 - SoftwareManagement,3 - Software,1
+ESH0135,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,1 - AssemblyDept,0
+RHO0732,Salesman,1,5 - SalesAndMarketing,2 - Sales,4 - RegionalSales,0
+DGW0752,Salesman,1,5 - SalesAndMarketing,2 - Sales,4 - RegionalSales,0
+HPR0585,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,3 - AssemblyDept,0
+TBT0461,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,2 - AssemblyDept,0
+SAK0375,ITAdmin,1,1 - Adminstration,6 - Security,3 - ElectronicSecurity,0
+BJH0811,ComputerProgrammer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,5 - Software,0
+TVS0006,VicePresident,1,4 - Finance,,,0
+FAW0032,Manager,1,1 - Adminstration,6 - Security,2 - ElectronicSecurity,0
+WSR0241,ComputerProgrammer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,1 - Software,0
+LRW0970,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,6 - AssemblyDept,0
+ZMC0284,MechanicalEngineer,1,2 - ResearchAndEngineering,3 - Engineering,5 - TestAndEvalualtion,0
+SAC0687,ComputerScientist,1,2 - ResearchAndEngineering,2 - SoftwareManagement,4 - Software,0
+CKB0427,TestEngineer,1,2 - ResearchAndEngineering,3 - Engineering,7 - TestAndEvalualtion,0
+BTS0011,Director,1,1 - Adminstration,2 - EmployeeRelations,,0
+IIA0092,MaterialsEngineer,1,2 - ResearchAndEngineering,3 - Engineering,3 - MaterialsEngineering,0
+WKD0013,Director,1,1 - Adminstration,4 - Safety,,0
+JNJ0556,ComputerScientist,1,2 - ResearchAndEngineering,2 - SoftwareManagement,3 - Software,0
+TLH0648,Technician,1,5 - SalesAndMarketing,3 - FieldService,3 - RegionalFieldService,0
+IBP0883,Technician,1,5 - SalesAndMarketing,3 - FieldService,5 - RegionalFieldService,0
+WAS0254,ElectricalEngineer,1,2 - ResearchAndEngineering,3 - Engineering,2 - ElectricalEngineering,0
+QNP0216,ITAdmin,1,1 - Adminstration,6 - Security,2 - ElectronicSecurity,0
+KLM0639,Technician,1,5 - SalesAndMarketing,3 - FieldService,3 - RegionalFieldService,0
+AIB0948,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,6 - AssemblyDept,0
+RBB0485,Salesman,1,5 - SalesAndMarketing,2 - Sales,2 - RegionalSales,0
+RZC0746,Salesman,1,5 - SalesAndMarketing,2 - Sales,4 - RegionalSales,0
+MDM0976,HumanResourceSpecialist,1,1 - Adminstration,1 - Personnel,,0
+XBN0229,Scientist,1,2 - ResearchAndEngineering,1 - Research,1 - Lab,0
+SMH0291,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,1 - AssemblyDept,0
+MCD0125,MechanicalEngineer,1,3 - Manufacturing,2 - ManufacturingEngineering,,1
+MHG0244,MechanicalEngineer,1,2 - ResearchAndEngineering,3 - Engineering,1 - MechanicalEngineering,0
+RAS0432,TestEngineer,1,2 - ResearchAndEngineering,3 - Engineering,7 - TestAndEvalualtion,0
+EIP0997,ElectricalEngineer,1,3 - Manufacturing,2 - ManufacturingEngineering,,0
+EMW0772,Technician,1,5 - SalesAndMarketing,3 - FieldService,4 - RegionalFieldService,0
+SBQ0786,LabManager,1,2 - ResearchAndEngineering,1 - Research,5 - Lab,0
+PDH0716,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,4 - AssemblyDept,0
+GZB0469,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,2 - AssemblyDept,0
+NMB0972,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,6 - AssemblyDept,0
+ONL0276,ComputerScientist,1,2 - ResearchAndEngineering,3 - Engineering,4 - SystemsEngineering,0
+MBJ0312,Salesman,1,5 - SalesAndMarketing,2 - Sales,1 - RegionalSales,0
+DRR0242,ComputerProgrammer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,1 - Software,0
+AJH0175,Salesman,1,5 - SalesAndMarketing,2 - Sales,1 - RegionalSales,0
+LQP0508,Technician,1,5 - SalesAndMarketing,3 - FieldService,2 - RegionalFieldService,0
+DVW0103,SystemsEngineer,1,2 - ResearchAndEngineering,3 - Engineering,4 - SystemsEngineering,0
+SMB0804,Scientist,1,2 - ResearchAndEngineering,1 - Research,5 - Lab,0
+KBG0549,Scientist,1,2 - ResearchAndEngineering,1 - Research,3 - Lab,0
+BAH0875,Salesman,1,5 - SalesAndMarketing,2 - Sales,5 - RegionalSales,0
+SLT0907,Technician,1,5 - SalesAndMarketing,3 - FieldService,5 - RegionalFieldService,1
+JAV0361,ITAdmin,1,1 - Adminstration,6 - Security,3 - ElectronicSecurity,0
+COM0321,Salesman,1,5 - SalesAndMarketing,2 - Sales,1 - RegionalSales,0
+CCC0393,ComputerProgrammer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,2 - Software,0
+QSV0778,Technician,1,5 - SalesAndMarketing,3 - FieldService,4 - RegionalFieldService,0
+BMC0547,Physicist,1,2 - ResearchAndEngineering,1 - Research,3 - Lab,0
+AWM0764,Technician,1,5 - SalesAndMarketing,3 - FieldService,4 - RegionalFieldService,0
+FXF0957,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,6 - AssemblyDept,0
+SVS0871,Salesman,1,5 - SalesAndMarketing,2 - Sales,5 - RegionalSales,0
+DJS0682,SoftwareEngineer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,4 - Software,0
+NHE0919,Scientist,1,2 - ResearchAndEngineering,1 - Research,6 - Lab,0
+MPT0376,Mathematician,1,2 - ResearchAndEngineering,1 - Research,2 - Lab,0
+AQD0820,SoftwareEngineer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,5 - Software,0
+YEV0793,Scientist,1,2 - ResearchAndEngineering,1 - Research,5 - Lab,0
+ZCF0590,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,3 - AssemblyDept,0
+KQC0708,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,4 - AssemblyDept,0
+LJR0523,Technician,1,5 - SalesAndMarketing,3 - FieldService,2 - RegionalFieldService,1
+CQH0701,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,4 - AssemblyDept,0
+PDW0259,ElectricalEngineer,1,2 - ResearchAndEngineering,3 - Engineering,2 - ElectricalEngineering,0
+FWM0707,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,4 - AssemblyDept,0
+HDS0367,ITAdmin,1,1 - Adminstration,6 - Security,3 - ElectronicSecurity,0
+JRH0455,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,2 - AssemblyDept,1
+SER0165,AdministrativeAssistant,1,5 - SalesAndMarketing,2 - Sales,,0
+SBD0913,AssemblySupervisor,1,3 - Manufacturing,3 - Assembly,6 - AssemblyDept,0
+JKF0465,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,2 - AssemblyDept,0
+CFW0264,MaterialsEngineer,1,2 - ResearchAndEngineering,3 - Engineering,3 - MaterialsEngineering,1
+BNR0965,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,6 - AssemblyDept,0
+ASV0946,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,6 - AssemblyDept,0
+KNG0672,Physicist,1,2 - ResearchAndEngineering,1 - Research,4 - Lab,1
+NNA0610,Salesman,1,5 - SalesAndMarketing,2 - Sales,3 - RegionalSales,0
+KQS0415,SystemsEngineer,1,2 - ResearchAndEngineering,3 - Engineering,6 - SystemsEngineering,0
+MHH0180,Technician,1,5 - SalesAndMarketing,3 - FieldService,1 - RegionalFieldService,1
+EGD0132,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,1 - AssemblyDept,1
+VTT0385,Scientist,1,2 - ResearchAndEngineering,1 - Research,2 - Lab,0
+ASG0692,ComputerScientist,1,2 - ResearchAndEngineering,2 - SoftwareManagement,4 - Software,0
+WPR0368,ITAdmin,1,1 - Adminstration,6 - Security,3 - ElectronicSecurity,0
+HAV0121,IndustrialEngineer,1,3 - Manufacturing,1 - IndustrialEngineering,,0
+HCC0344,Technician,1,5 - SalesAndMarketing,3 - FieldService,1 - RegionalFieldService,0
+UBF0645,Technician,1,5 - SalesAndMarketing,3 - FieldService,3 - RegionalFieldService,0
+TSR0676,Scientist,1,2 - ResearchAndEngineering,1 - Research,4 - Lab,0
+NKH0979,HumanResourceSpecialist,1,1 - Adminstration,2 - EmployeeRelations,,0
+SXM0895,Technician,1,5 - SalesAndMarketing,3 - FieldService,5 - RegionalFieldService,0
+KCS0173,Salesman,1,5 - SalesAndMarketing,2 - Sales,1 - RegionalSales,0
+CCA0046,ITAdmin,1,1 - Adminstration,6 - Security,2 - ElectronicSecurity,1
+PMV0850,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,5 - AssemblyDept,0
+PKB0281,ElectricalEngineer,1,2 - ResearchAndEngineering,3 - Engineering,5 - TestAndEvalualtion,0
+MIC0726,Salesman,1,5 - SalesAndMarketing,2 - Sales,4 - RegionalSales,0
+SDO0170,Salesman,1,5 - SalesAndMarketing,2 - Sales,1 - RegionalSales,0
+VAA0087,ElectricalEngineer,1,2 - ResearchAndEngineering,3 - Engineering,2 - ElectricalEngineering,0
+ELB0847,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,5 - AssemblyDept,0
+SBK0161,Director,1,5 - SalesAndMarketing,3 - FieldService,,0
+ASL0378,Scientist,1,2 - ResearchAndEngineering,1 - Research,2 - Lab,0
+TLM0797,Mathematician,1,2 - ResearchAndEngineering,1 - Research,5 - Lab,0
+SOF0808,ComputerProgrammer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,5 - Software,0
+SGM0021,AdministrativeAssistant,1,1 - Adminstration,2 - EmployeeRelations,,0
+MYD0978,HumanResourceSpecialist,1,1 - Adminstration,1 - Personnel,,1
+FBA0348,Manager,1,1 - Adminstration,6 - Security,3 - ElectronicSecurity,0
+ARL0034,SecurityGuard,1,1 - Adminstration,6 - Security,1 - BuildingSecurity,0
+YJF0532,Technician,1,5 - SalesAndMarketing,3 - FieldService,2 - RegionalFieldService,0
+RJM0381,Scientist,1,2 - ResearchAndEngineering,1 - Research,2 - Lab,0
+VSS0154,AdministrativeStaff,1,4 - Finance,2 - Payroll,,1
+JMW0638,Technician,1,5 - SalesAndMarketing,3 - FieldService,3 - RegionalFieldService,0
+IKR0401,SoftwareEngineer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,2 - Software,1
+EMS0317,Salesman,1,5 - SalesAndMarketing,2 - Sales,1 - RegionalSales,0
+FTM0406,SystemsEngineer,1,2 - ResearchAndEngineering,3 - Engineering,6 - SystemsEngineering,1
+RAR0725,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,4 - AssemblyDept,1
+MNS0224,ITAdmin,1,1 - Adminstration,6 - Security,2 - ElectronicSecurity,0
+WVB0539,Manager,1,5 - SalesAndMarketing,2 - Sales,3 - RegionalSales,0
+SSG0250,MechanicalEngineer,1,2 - ResearchAndEngineering,3 - Engineering,1 - MechanicalEngineering,0
+MLM0950,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,6 - AssemblyDept,0
+HPH0075,ChiefEngineer,1,2 - ResearchAndEngineering,3 - Engineering,1 - MechanicalEngineering,0
+VMJ0546,Physicist,1,2 - ResearchAndEngineering,1 - Research,3 - Lab,0
+NLO0131,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,1 - AssemblyDept,0
+PES0085,AdministrativeAssistant,1,2 - ResearchAndEngineering,3 - Engineering,2 - ElectricalEngineering,0
+OHC0973,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,6 - AssemblyDept,0
+NMF0780,Technician,1,5 - SalesAndMarketing,3 - FieldService,4 - RegionalFieldService,0
+LEM0605,Salesman,1,5 - SalesAndMarketing,2 - Sales,3 - RegionalSales,0
+BEC0505,Salesman,1,5 - SalesAndMarketing,2 - Sales,2 - RegionalSales,0
+OLF0504,Salesman,1,5 - SalesAndMarketing,2 - Sales,2 - RegionalSales,0
+KVS0425,SystemsEngineer,1,2 - ResearchAndEngineering,3 - Engineering,6 - SystemsEngineering,0
+AJR0319,Salesman,1,5 - SalesAndMarketing,2 - Sales,1 - RegionalSales,0
+DLS0383,Scientist,1,2 - ResearchAndEngineering,1 - Research,2 - Lab,0
+BCR0581,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,3 - AssemblyDept,0
+LDB0090,AdministrativeAssistant,1,2 - ResearchAndEngineering,3 - Engineering,3 - MaterialsEngineering,0
+GAF0570,SoftwareEngineer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,3 - Software,0
+NNS0059,Scientist,1,2 - ResearchAndEngineering,1 - Research,1 - Lab,0
+JRL0574,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,3 - AssemblyDept,0
+NSS0876,Salesman,1,5 - SalesAndMarketing,2 - Sales,5 - RegionalSales,0
+SOB0586,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,3 - AssemblyDept,0
+DDA0476,Salesman,1,5 - SalesAndMarketing,2 - Sales,2 - RegionalSales,0
+DEB0782,Technician,1,5 - SalesAndMarketing,3 - FieldService,4 - RegionalFieldService,0
+OLW0689,SoftwareEngineer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,4 - Software,0
+MMG0943,SoftwareEngineer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,6 - Software,0
+RNL0695,ComputerScientist,1,2 - ResearchAndEngineering,2 - SoftwareManagement,4 - Software,0
+LNR0656,Technician,1,5 - SalesAndMarketing,3 - FieldService,3 - RegionalFieldService,0
+AMJ0297,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,1 - AssemblyDept,0
+HRL0540,FieldServiceEngineer,1,5 - SalesAndMarketing,3 - FieldService,3 - RegionalFieldService,0
+DLF0377,Mathematician,1,2 - ResearchAndEngineering,1 - Research,2 - Lab,0
+MVH0373,ITAdmin,1,1 - Adminstration,6 - Security,3 - ElectronicSecurity,1
+TPH0474,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,2 - AssemblyDept,0
+KCF0045,ITAdmin,1,1 - Adminstration,6 - Security,2 - ElectronicSecurity,0
+BIS0247,MechanicalEngineer,1,2 - ResearchAndEngineering,3 - Engineering,1 - MechanicalEngineering,0
+MSS0001,President,1,,,,0
+EFS0882,Technician,1,5 - SalesAndMarketing,3 - FieldService,5 - RegionalFieldService,0
+NWK0215,SecurityGuard,1,1 - Adminstration,6 - Security,1 - BuildingSecurity,0
+PNL0301,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,1 - AssemblyDept,1
+CSH0626,Salesman,1,5 - SalesAndMarketing,2 - Sales,3 - RegionalSales,0
+BHW0458,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,2 - AssemblyDept,0
+SSH0799,Scientist,1,2 - ResearchAndEngineering,1 - Research,5 - Lab,0
+ANM0123,AdministrativeAssistant,1,3 - Manufacturing,2 - ManufacturingEngineering,,1
+CAS0507,Technician,1,5 - SalesAndMarketing,3 - FieldService,2 - RegionalFieldService,0
+DID0650,Technician,1,5 - SalesAndMarketing,3 - FieldService,3 - RegionalFieldService,0
+KAT0270,ElectricalEngineer,1,2 - ResearchAndEngineering,3 - Engineering,4 - SystemsEngineering,0
+TEM0977,HumanResourceSpecialist,1,1 - Adminstration,1 - Personnel,,0
+SHR0334,Technician,1,5 - SalesAndMarketing,3 - FieldService,1 - RegionalFieldService,0
+JDC0030,AdministrativeAssistant,1,1 - Adminstration,6 - Security,,0
+CKP0721,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,4 - AssemblyDept,0
+HIA0414,SystemsEngineer,1,2 - ResearchAndEngineering,3 - Engineering,6 - SystemsEngineering,0
+HSP0290,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,1 - AssemblyDept,0
+HRW0550,Scientist,1,2 - ResearchAndEngineering,1 - Research,3 - Lab,0
+KBB0189,AdministrativeAssistant,1,6 - PurchasingAndContracts,,,0
+CBB0365,ITAdmin,1,1 - Adminstration,6 - Security,3 - ElectronicSecurity,0
+DLH0029,NursePractitioner,1,1 - Adminstration,5 - Medical,,0
+NRO0768,Technician,1,5 - SalesAndMarketing,3 - FieldService,4 - RegionalFieldService,1
+NWT0098,HardwareEngineer,1,2 - ResearchAndEngineering,3 - Engineering,4 - SystemsEngineering,1
+QPM0727,Salesman,1,5 - SalesAndMarketing,2 - Sales,4 - RegionalSales,0
+KVT0028,Nurse,1,1 - Adminstration,5 - Medical,,0
+LFS0071,SoftwareEngineer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,1 - Software,0
+WNB0908,Technician,1,5 - SalesAndMarketing,3 - FieldService,5 - RegionalFieldService,0
+PAD0773,Technician,1,5 - SalesAndMarketing,3 - FieldService,4 - RegionalFieldService,0
+BJH0354,Manager,1,5 - SalesAndMarketing,2 - Sales,2 - RegionalSales,0
+ONW0083,MechanicalEngineer,1,2 - ResearchAndEngineering,3 - Engineering,1 - MechanicalEngineering,0
+SSJ0784,Technician,1,5 - SalesAndMarketing,3 - FieldService,4 - RegionalFieldService,0
+KJP0371,ITAdmin,1,1 - Adminstration,6 - Security,3 - ElectronicSecurity,0
+IMB0481,Salesman,1,5 - SalesAndMarketing,2 - Sales,2 - RegionalSales,0
+BQS0525,Technician,1,5 - SalesAndMarketing,3 - FieldService,2 - RegionalFieldService,1
+BTR0403,ComputerScientist,1,2 - ResearchAndEngineering,2 - SoftwareManagement,2 - Software,0
+DLM0051,Director,1,2 - ResearchAndEngineering,3 - Engineering,,0
+AHM0410,SystemsEngineer,1,2 - ResearchAndEngineering,3 - Engineering,6 - SystemsEngineering,0
+CHM0821,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,5 - AssemblyDept,0
+JBM0350,Manager,1,2 - ResearchAndEngineering,2 - SoftwareManagement,2 - Software,0
+JRG0207,SecurityGuard,1,1 - Adminstration,6 - Security,1 - BuildingSecurity,1
+PLH0862,Salesman,1,5 - SalesAndMarketing,2 - Sales,5 - RegionalSales,0
+RCP0785,Technician,1,5 - SalesAndMarketing,3 - FieldService,4 - RegionalFieldService,0
+NSC0597,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,3 - AssemblyDept,0
+AVM0947,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,6 - AssemblyDept,0
+MSZ0310,Salesman,1,5 - SalesAndMarketing,2 - Sales,1 - RegionalSales,0
+SDB0106,MechanicalEngineer,1,2 - ResearchAndEngineering,3 - Engineering,5 - TestAndEvalualtion,0
+HAC0282,ElectricalEngineer,1,2 - ResearchAndEngineering,3 - Engineering,5 - TestAndEvalualtion,0
+HSB0196,PurchasingClerk,1,6 - PurchasingAndContracts,1 - Purchasing,,0
+ASB0796,Mathematician,1,2 - ResearchAndEngineering,1 - Research,5 - Lab,1
+WRM0963,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,6 - AssemblyDept,1
+BRM0995,IndustrialEngineer,1,3 - Manufacturing,1 - IndustrialEngineering,,0
+SES0477,Salesman,1,5 - SalesAndMarketing,2 - Sales,2 - RegionalSales,0
+JTM0223,ITAdmin,1,1 - Adminstration,6 - Security,2 - ElectronicSecurity,1
+RNF0765,Technician,1,5 - SalesAndMarketing,3 - FieldService,4 - RegionalFieldService,0
+GNZ0953,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,6 - AssemblyDept,0
+HRB0351,ChiefEngineer,1,2 - ResearchAndEngineering,3 - Engineering,6 - SystemsEngineering,0
+ZSB0649,Technician,1,5 - SalesAndMarketing,3 - FieldService,3 - RegionalFieldService,0
+ADC0391,SoftwareEngineer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,2 - Software,0
+PMC0328,Technician,1,5 - SalesAndMarketing,3 - FieldService,1 - RegionalFieldService,0
+ILJ0526,Technician,1,5 - SalesAndMarketing,3 - FieldService,2 - RegionalFieldService,0
+ANT0430,TestEngineer,1,2 - ResearchAndEngineering,3 - Engineering,7 - TestAndEvalualtion,0
+DFH0188,Technician,1,5 - SalesAndMarketing,3 - FieldService,1 - RegionalFieldService,0
+LLV0602,Salesman,1,5 - SalesAndMarketing,2 - Sales,3 - RegionalSales,0
+GCR0554,Physicist,1,2 - ResearchAndEngineering,1 - Research,3 - Lab,0
+SJO0209,SecurityGuard,1,1 - Adminstration,6 - Security,1 - BuildingSecurity,0
+NGC0058,Mathematician,1,2 - ResearchAndEngineering,1 - Research,1 - Lab,0
+YIC0195,PurchasingClerk,1,6 - PurchasingAndContracts,1 - Purchasing,,1
+EDB0714,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,4 - AssemblyDept,1
+LHL0309,Salesman,1,5 - SalesAndMarketing,2 - Sales,1 - RegionalSales,0
+HFB0347,Technician,1,5 - SalesAndMarketing,3 - FieldService,1 - RegionalFieldService,1
+EJW0884,Technician,1,5 - SalesAndMarketing,3 - FieldService,5 - RegionalFieldService,0
+CRO0027,HealthSafetyEngineer,1,1 - Adminstration,4 - Safety,,0
+HKR0628,Salesman,1,5 - SalesAndMarketing,2 - Sales,3 - RegionalSales,0
+GTD0116,Manager,1,3 - Manufacturing,1 - IndustrialEngineering,,0
+DSB0731,Salesman,1,5 - SalesAndMarketing,2 - Sales,4 - RegionalSales,0
+COF0120,AdministrativeAssistant,1,3 - Manufacturing,1 - IndustrialEngineering,,1
+HDJ0446,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,2 - AssemblyDept,0
+CHG0146,Manager,1,4 - Finance,1 - Accounting,,0
+AIH0675,Scientist,1,2 - ResearchAndEngineering,1 - Research,4 - Lab,0
+TNM0961,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,6 - AssemblyDept,1
+APG0307,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,1 - AssemblyDept,0
+RHC0335,Technician,1,5 - SalesAndMarketing,3 - FieldService,1 - RegionalFieldService,0
+CQW0652,Technician,1,5 - SalesAndMarketing,3 - FieldService,3 - RegionalFieldService,1
+HJS0072,SoftwareEngineer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,1 - Software,1
+XHW0498,Salesman,1,5 - SalesAndMarketing,2 - Sales,2 - RegionalSales,1
+IJW0851,Salesman,1,5 - SalesAndMarketing,2 - Sales,5 - RegionalSales,0
+NAR0981,ComputerTrainer,1,1 - Adminstration,3 - Training,,0
+NUL0471,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,2 - AssemblyDept,0
+DIB0081,MechanicalEngineer,1,2 - ResearchAndEngineering,3 - Engineering,1 - MechanicalEngineering,1
+BSS0369,ITAdmin,1,1 - Adminstration,6 - Security,3 - ElectronicSecurity,1
+MIB0904,Technician,1,5 - SalesAndMarketing,3 - FieldService,5 - RegionalFieldService,0
+AAF0535,Technician,1,5 - SalesAndMarketing,3 - FieldService,2 - RegionalFieldService,1
+HBB0056,Scientist,1,2 - ResearchAndEngineering,1 - Research,,0
+MCJ0324,Salesman,1,5 - SalesAndMarketing,2 - Sales,1 - RegionalSales,0
+HDH0928,Mathematician,1,2 - ResearchAndEngineering,1 - Research,6 - Lab,0
+HXL0968,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,6 - AssemblyDept,1
+MOH0273,HardwareEngineer,1,2 - ResearchAndEngineering,3 - Engineering,4 - SystemsEngineering,0
+KNW0644,Technician,1,5 - SalesAndMarketing,3 - FieldService,3 - RegionalFieldService,0
+CGA0629,Salesman,1,5 - SalesAndMarketing,2 - Sales,3 - RegionalSales,0
+NMS0280,Technician,1,2 - ResearchAndEngineering,3 - Engineering,5 - TestAndEvalualtion,0
+THD0448,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,2 - AssemblyDept,0
+SPA0141,AdministrativeAssistant,1,3 - Manufacturing,4 - QualityControl,,0
+LPC0492,Salesman,1,5 - SalesAndMarketing,2 - Sales,2 - RegionalSales,0
+BTN0061,Scientist,1,2 - ResearchAndEngineering,1 - Research,1 - Lab,0
+HGH0595,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,3 - AssemblyDept,0
+BAM0611,Salesman,1,5 - SalesAndMarketing,2 - Sales,3 - RegionalSales,0
+KKC0683,SoftwareEngineer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,4 - Software,0
+BBS0422,ElectricalEngineer,1,2 - ResearchAndEngineering,3 - Engineering,6 - SystemsEngineering,0
+HDL0748,Salesman,1,5 - SalesAndMarketing,2 - Sales,4 - RegionalSales,0
+NRD0548,Mathematician,1,2 - ResearchAndEngineering,1 - Research,3 - Lab,1
+DCC0160,Director,1,5 - SalesAndMarketing,2 - Sales,,0
+MES0407,SystemsEngineer,1,2 - ResearchAndEngineering,3 - Engineering,6 - SystemsEngineering,0
+LMF0980,HumanResourceSpecialist,1,1 - Adminstration,2 - EmployeeRelations,,0
+BMM0112,Technician,1,2 - ResearchAndEngineering,3 - Engineering,5 - TestAndEvalualtion,0
+LTS0860,Salesman,1,5 - SalesAndMarketing,2 - Sales,5 - RegionalSales,0
+AOK0844,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,5 - AssemblyDept,1
+ESJ0670,Scientist,1,2 - ResearchAndEngineering,1 - Research,4 - Lab,0
+AAF0791,Physicist,1,2 - ResearchAndEngineering,1 - Research,5 - Lab,0
+KRL0501,Salesman,1,5 - SalesAndMarketing,2 - Sales,2 - RegionalSales,1
+SAC0592,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,3 - AssemblyDept,0
+UCS0227,Mathematician,1,2 - ResearchAndEngineering,1 - Research,1 - Lab,0
+JCR0770,Technician,1,5 - SalesAndMarketing,3 - FieldService,4 - RegionalFieldService,0
+ICS0956,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,6 - AssemblyDept,1
+MKW0441,Technician,1,2 - ResearchAndEngineering,3 - Engineering,7 - TestAndEvalualtion,0
+TSM0927,Scientist,1,2 - ResearchAndEngineering,1 - Research,6 - Lab,0
+OJK0233,Physicist,1,2 - ResearchAndEngineering,1 - Research,1 - Lab,0
+SMW0084,MechanicalEngineer,1,2 - ResearchAndEngineering,3 - Engineering,1 - MechanicalEngineering,0
+BEH0615,Salesman,1,5 - SalesAndMarketing,2 - Sales,3 - RegionalSales,0
+ADF0397,SoftwareEngineer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,2 - Software,0
+NJC0705,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,4 - AssemblyDept,0
+BYP0070,SoftwareEngineer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,1 - Software,1
+JMD0520,Technician,1,5 - SalesAndMarketing,3 - FieldService,2 - RegionalFieldService,0
+LAF0991,IndustrialEngineer,1,3 - Manufacturing,1 - IndustrialEngineering,,0
+KBS0874,Salesman,1,5 - SalesAndMarketing,2 - Sales,5 - RegionalSales,0
+GHH0288,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,1 - AssemblyDept,0
+TAC0300,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,1 - AssemblyDept,0
+JAJ0849,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,5 - AssemblyDept,0
+NOB0181,Technician,1,5 - SalesAndMarketing,3 - FieldService,1 - RegionalFieldService,0
+DTP0379,Physicist,1,2 - ResearchAndEngineering,1 - Research,2 - Lab,0
+CJM0138,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,1 - AssemblyDept,0
+FHS0837,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,5 - AssemblyDept,0
+CAA0612,Salesman,1,5 - SalesAndMarketing,2 - Sales,3 - RegionalSales,0
+ELT0769,Technician,1,5 - SalesAndMarketing,3 - FieldService,4 - RegionalFieldService,0
+KJW0416,SystemsEngineer,1,2 - ResearchAndEngineering,3 - Engineering,6 - SystemsEngineering,0
+CTR0341,Technician,1,5 - SalesAndMarketing,3 - FieldService,1 - RegionalFieldService,0
+DIC0988,NursePractitioner,1,1 - Adminstration,5 - Medical,,0
+JJH0292,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,1 - AssemblyDept,0
+MJS0890,Technician,1,5 - SalesAndMarketing,3 - FieldService,5 - RegionalFieldService,0
+TOR0193,AdministrativeAssistant,1,6 - PurchasingAndContracts,1 - Purchasing,,0
+SCB0534,Technician,1,5 - SalesAndMarketing,3 - FieldService,2 - RegionalFieldService,0
+MDH0686,SoftwareEngineer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,4 - Software,0
+JOM0750,Salesman,1,5 - SalesAndMarketing,2 - Sales,4 - RegionalSales,0
+BRB0355,FieldServiceEngineer,1,5 - SalesAndMarketing,3 - FieldService,2 - RegionalFieldService,0
+MJM0510,Technician,1,5 - SalesAndMarketing,3 - FieldService,2 - RegionalFieldService,0
+KJM0887,Technician,1,5 - SalesAndMarketing,3 - FieldService,5 - RegionalFieldService,0
+CBG0398,SoftwareEngineer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,2 - Software,0
+RRC0553,Physicist,1,2 - ResearchAndEngineering,1 - Research,3 - Lab,1
+TDS0984,ComputerTrainer,1,1 - Adminstration,3 - Training,,0
+LRR0148,Manager,1,4 - Finance,3 - FinancialPlanning,,0
+ARB0834,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,5 - AssemblyDept,1
+KPC0073,ComputerScientist,1,2 - ResearchAndEngineering,2 - SoftwareManagement,1 - Software,1
+CLB0774,Technician,1,5 - SalesAndMarketing,3 - FieldService,4 - RegionalFieldService,0
+VEB0935,ComputerScientist,1,2 - ResearchAndEngineering,2 - SoftwareManagement,6 - Software,0
+MCT0720,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,4 - AssemblyDept,0
+JDF0593,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,3 - AssemblyDept,0
+CJG0470,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,2 - AssemblyDept,0
+RGG0064,SoftwareEngineer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,,1
+BXJ0010,Director,1,1 - Adminstration,1 - Personnel,,0
+WBC0315,Salesman,1,5 - SalesAndMarketing,2 - Sales,1 - RegionalSales,0
+CGB0637,Technician,1,5 - SalesAndMarketing,3 - FieldService,3 - RegionalFieldService,0
+CAN0842,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,5 - AssemblyDept,0
+HTH0007,VicePresident,1,5 - SalesAndMarketing,,,0
+BJM0111,Technician,1,2 - ResearchAndEngineering,3 - Engineering,5 - TestAndEvalualtion,0
+MAW0166,Manager,1,5 - SalesAndMarketing,2 - Sales,1 - RegionalSales,0
+PPF0435,TestEngineer,1,2 - ResearchAndEngineering,3 - Engineering,7 - TestAndEvalualtion,1
+SEJ0677,Mathematician,1,2 - ResearchAndEngineering,1 - Research,4 - Lab,1
+ACV0812,ComputerProgrammer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,5 - Software,0
+KWE0082,MechanicalEngineer,1,2 - ResearchAndEngineering,3 - Engineering,1 - MechanicalEngineering,0
+ECL0930,ComputerProgrammer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,6 - Software,0
+RHP0484,Salesman,1,5 - SalesAndMarketing,2 - Sales,2 - RegionalSales,0
+BAM0636,Technician,1,5 - SalesAndMarketing,3 - FieldService,3 - RegionalFieldService,0
+DDM0579,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,3 - AssemblyDept,0
+UIR0043,ITAdmin,1,1 - Adminstration,6 - Security,2 - ElectronicSecurity,0
+JCR0172,Salesman,1,5 - SalesAndMarketing,2 - Sales,1 - RegionalSales,0
+ATE0869,Salesman,1,5 - SalesAndMarketing,2 - Sales,5 - RegionalSales,0
+IBS0836,ProductionLineWorker,1,3 - Manufacturing,3 - Assembly,5 - AssemblyDept,0
+DTT0076,ChiefEngineer,1,2 - ResearchAndEngineering,3 - Engineering,2 - ElectricalEngineering,0
+PRM0740,Salesman,1,5 - SalesAndMarketing,2 - Sales,4 - RegionalSales,0
+FGW0853,Salesman,1,5 - SalesAndMarketing,2 - Sales,5 - RegionalSales,0
+JSH0330,Technician,1,5 - SalesAndMarketing,3 - FieldService,1 - RegionalFieldService,0
+FSB0399,SoftwareEngineer,1,2 - ResearchAndEngineering,2 - SoftwareManagement,2 - Software,1
