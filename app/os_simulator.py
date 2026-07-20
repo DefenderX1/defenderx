@@ -1,8 +1,3 @@
-"""
-DefendX — Simulated OS Window
-Provides interactive simulated Windows and Linux desktops for simulated users.
-"""
-
 import tkinter as tk
 from tkinter import ttk, messagebox
 import os
@@ -30,7 +25,6 @@ def get_asset_path(filename):
         if os.path.exists(p):
             return p
 
-    # 2. Check script directory hierarchy
     try:
         cur_dir = os.path.dirname(os.path.abspath(__file__))
         parent_dir = os.path.dirname(cur_dir)
@@ -41,12 +35,11 @@ def get_asset_path(filename):
     except Exception:
         pass
 
-    # 3. Check current execution working directory
     p = os.path.join(os.getcwd(), "User ui wallpaper", filename)
     if os.path.exists(p):
         return p
 
-    # 4. Check sys.argv[0] EXE directory
+    
     try:
         exe_dir = os.path.dirname(os.path.abspath(sys.argv[0]))
         for d in [exe_dir, os.path.dirname(exe_dir)]:
@@ -56,7 +49,7 @@ def get_asset_path(filename):
     except Exception:
         pass
 
-    # Fallback path representation
+    
     return os.path.join("User ui wallpaper", filename)
 
 class SimulatedOSWindow(tk.Toplevel):
