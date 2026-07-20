@@ -10,10 +10,6 @@ except ImportError:
     HF_HUB_AVAILABLE = False
 
 class AIAgent:
-    """
-    AI Security Agent (DefenderX) that monitors alerts, runs them
-    through the Hugging Face InferenceClient, and powers the chatbot.
-    """
 
     def __init__(self, alert_manager, web_dir=None, deploy_dir=None):
         self.alert_manager = alert_manager
@@ -36,7 +32,6 @@ class AIAgent:
                 pass
 
     def _load_token(self):
-        """Loads Hugging Face token dynamically from env or local text file."""
         token = os.environ.get("HF_TOKEN")
         if not token:
             for path in [
