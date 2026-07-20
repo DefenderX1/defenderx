@@ -1,8 +1,3 @@
-"""
-DefendX — AI Security Agent
-Utilizes Hugging Face InferenceClient with Gemma-3-IT model to analyze threats.
-"""
-
 import json
 import threading
 import os
@@ -25,11 +20,11 @@ class AIAgent:
         self.web_dir = web_dir
         self.deploy_dir = deploy_dir
         
-        # Load Hugging Face Token from environment variables (fallback to local token file)
+        
         self.token = self._load_token()
         self.model_name = "google/gemma-3-1b-it"
         
-        # Initialize client if token is available
+        
         self.client = None
         if HF_HUB_AVAILABLE and self.token:
             try:
@@ -71,7 +66,7 @@ class AIAgent:
             self.update_web_alerts(alert)
             return
 
-        # Refresh token in case it was set after init
+        
         if not self.token:
             self.token = self._load_token()
             
